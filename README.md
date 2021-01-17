@@ -2,16 +2,16 @@
 
 <p align='center'>
  <a href="https://dannys.cloud"><img height="30" src="https://raw.githubusercontent.com/dannysteenman/dannysteenman/main/icon/homepage.png"></a>&nbsp;&nbsp;
-<a href="https://dev.to/dannysteenman"><img height="30" src="https://raw.githubusercontent.com/dannysteenman/dannysteenman/main/icon/dev.png"></a>&nbsp;&nbsp;
+<a href="https://dev.to/dannysteenman"><img height="30" src="https://raw.githubusercontent.com/dannysteenman/dannysteenman/main/icon/devto.png"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/dannysteenman"><img height="30" src="https://github.com/dannysteenman/dannysteenman/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/dannysteenman/"><img height="30" src="https://github.com/dannysteenman/dannysteenman/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
 
-# Hi! <img src="https://raw.githubusercontent.com/dannysteenman/dannysteenman/main/wave.gif" width="30px">
+# Hi! <img src="https://raw.githubusercontent.com/dannysteenman/dannysteenman/main/icon/wave.gif" width="30px">
 
 My name is Danny. I’m an AWS Cloud Consultant who likes to build things in the Cloud. I write about my learnings on my [Blog](https://dannys.cloud) and on [Twitter](https://twitter.com/dannysteenman).
 
-## 🔧 Technologies & Tools
+## 🧰 Tools & Technologies
 ![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=Apple&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
