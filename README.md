@@ -24,6 +24,11 @@ My name is Danny. I’m an AWS Cloud Consultant who likes to build things in the
 ## 📚 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [10 Best Free AWS Learning Resources for Beginners](https://dannys.cloud/10-best-free-aws-learning-resources-for-beginners)
+- [Deploy stacks in parallel with AWS CDK Pipelines](https://dannys.cloud/deploy-stacks-parallel-aws-cdk-pipelines)
+- [Autocomplete your CloudFormation Resources in VS Code](https://dannys.cloud/autocomplete-cloudformation-resources-vs-code)
+- [How to Automatically Setup Your MacBook for Development](https://dannys.cloud/automatically-setup-macbook-development)
+- [Update your macOS packages with a single command](https://dannys.cloud/update-macos-packages-single-command)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...click here for more blog articles](https://dannys.cloud)
