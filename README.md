@@ -24,7 +24,7 @@ My name is Danny. I’m an AWS Cloud Consultant who likes to build things in the
 ## 📚 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [How to setup AWS CLI with AWS Single Sign-On (SSO)](https://dannys.cloud/how-to-setup-aws-cli-with-aws-sso)
+- [How to set up AWS CLI with AWS Single Sign-On (SSO)](https://dannys.cloud/how-to-set-up-aws-cli-with-aws-sso)
 - [Autocomplete AWS CDK L1 Constructs in VS Code](https://dannys.cloud/autocomplete-aws-cdk-l1-constructs-vs-code)
 - [Use AWS Copilot CLI to deploy containers on an existing infrastructure - Tutorial](https://dannys.cloud/aws-copilot-cli-deploy-containers-existing-infrastructure-tutorial)
 - [10 Best Free AWS Learning Resources for Beginners](https://dannys.cloud/10-best-free-aws-learning-resources-for-beginners)
