@@ -24,11 +24,11 @@ My name is Danny. I’m an AWS Cloud Consultant who likes to build things in the
 ## 📚 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Create reusable Assume role script for Cross-Account AWS access](https://dannys.cloud/create-reusable-assume-role-script-cross-account-aws)
 - [7 Essential tips that prepare you for the AWS Certification exam](https://dannys.cloud/7-essential-tips-prepare-aws-certification)
 - [How to set up AWS CDK - complete guide](https://dannys.cloud/how-to-set-up-aws-cdk)
 - [How to set up AWS CLI with AWS Single Sign-On (SSO)](https://dannys.cloud/how-to-set-up-aws-cli-with-aws-sso)
 - [Autocomplete AWS CDK L1 Constructs in VS Code](https://dannys.cloud/autocomplete-aws-cdk-l1-constructs-vs-code)
-- [Use AWS Copilot CLI to deploy containers on an existing infrastructure - Tutorial](https://dannys.cloud/aws-copilot-cli-deploy-containers-existing-infrastructure-tutorial)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...click here for more blog articles](https://dannys.cloud)
