@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://gpvc.arturio.dev/dannysteenman" alt="profile views"> •
-  <a href="https://twitter.com/intent/follow?screen_name=dannysteenman&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/dannysteenman?label=%40dannysteenman&style=social"></a>
+  <a href="https://dannys.cloud/twitter"><img src="https://img.shields.io/twitter/follow/dannysteenman?label=%40dannysteenman&style=social"></a>
 </p>
 
 # Hi! <img src="https://raw.githubusercontent.com/dannysteenman/dannysteenman/main/icon/wave.gif" width="30px">
