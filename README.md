@@ -5,9 +5,9 @@
   <a href="https://dannys.cloud/twitter"><img src="https://img.shields.io/twitter/follow/dannysteenman?label=%40dannysteenman&style=social"></a>
 </p>
 
-# Hi! <img src="https://raw.githubusercontent.com/dannysteenman/dannysteenman/main/icon/wave.gif" width="30px">
+# Hi, I'm Danny!
 
-My name is Danny. I’m an AWS Cloud Consultant who likes to build things in the Cloud. I write about my learnings on my [Blog](https://dannys.cloud) and on [Twitter](https://twitter.com/dannysteenman).
+I’m an AWS Cloud Consultant who likes to build things in the Cloud. I write about my learnings on my [Blog](https://dannys.cloud) and on [Twitter](https://twitter.com/dannysteenman).
 
 ## 🧰 Tools & Technologies
 
