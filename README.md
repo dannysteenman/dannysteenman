@@ -26,7 +26,7 @@ I’m an AWS Cloud Consultant who likes to build things in the Cloud. I write ab
 <!-- BLOG-POST-LIST:START -->
 - [How to share resources across stacks in AWS CDK](https://dannys.cloud/share-resources-across-stacks-aws-cdk)
 - [Create reusable Assume role script for Cross-Account AWS access](https://dannys.cloud/create-reusable-assume-role-script-cross-account-aws)
-- [7 Essential tips that prepare you for the AWS Certification exam](https://dannys.cloud/7-essential-tips-prepare-aws-certification)
+- [7 Tactical tips that increases your chances of passing an AWS Certification exam](https://dannys.cloud/7-tactical-tips-aws-certification-exam)
 - [How to set up AWS CDK - complete guide](https://dannys.cloud/how-to-set-up-aws-cdk)
 - [How to set up AWS CLI with AWS Single Sign-On (SSO)](https://dannys.cloud/how-to-set-up-aws-cli-with-aws-sso)
 <!-- BLOG-POST-LIST:END -->
