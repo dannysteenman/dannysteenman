@@ -24,11 +24,11 @@ I’m an AWS Cloud Consultant who likes to build things in the Cloud. I write ab
 ## 📚 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [How to pass the AWS DevOps Engineer Professional exam - complete guide](https://dannys.cloud/aws-devops-engineer-professional-exam-guide)
 - [How to share resources across stacks in AWS CDK](https://dannys.cloud/share-resources-across-stacks-aws-cdk)
 - [Create reusable Assume role script for Cross-Account AWS access](https://dannys.cloud/create-reusable-assume-role-script-cross-account-aws)
 - [7 Tactical tips that increases your chances of passing an AWS Certification exam](https://dannys.cloud/7-tactical-tips-aws-certification-exam)
 - [How to set up AWS CDK - complete guide](https://dannys.cloud/how-to-set-up-aws-cdk)
-- [How to set up AWS CLI with AWS Single Sign-On (SSO)](https://dannys.cloud/how-to-set-up-aws-cli-with-aws-sso)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...click here for more blog articles](https://dannys.cloud)
