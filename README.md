@@ -1,13 +1,13 @@
-# [![Danny Steenman header](https://raw.githubusercontent.com/dannysteenman/dannysteenman/main/icon/gh-header.png)](https://dannys.cloud)
+# [![Danny Steenman header](https://raw.githubusercontent.com/dannysteenman/dannysteenman/main/icon/gh-header.png)](https://towardsthecloud.com)
 
 <p align="center">
   <img src="https://gpvc.arturio.dev/dannysteenman" alt="profile views"> •
-  <a href="https://dannys.cloud/twitter"><img src="https://img.shields.io/twitter/follow/dannysteenman?label=%40dannysteenman&style=social"></a>
+  <a href="https://twitter.com/dannysteenman"><img src="https://img.shields.io/twitter/follow/dannysteenman?label=%40dannysteenman&style=social"></a>
 </p>
 
 # Hi, I'm Danny!
 
-I’m an AWS Cloud Consultant who likes to build things in the Cloud. I write about my learnings on my [Blog](https://dannys.cloud) and on [Twitter](https://twitter.com/dannysteenman).
+I’m an AWS Cloud Consultant who likes to build things in the Cloud. I write about my learnings on my [Blog](https://towardsthecloud.com) and on [Twitter](https://twitter.com/dannysteenman).
 
 ## 🧰 Tools & Technologies
 
@@ -24,21 +24,21 @@ I’m an AWS Cloud Consultant who likes to build things in the Cloud. I write ab
 ## 📚 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [How to pass the AWS DevOps Engineer Professional exam - complete guide](https://dannys.cloud/aws-devops-engineer-professional-exam-guide)
-- [How to share resources across stacks in AWS CDK](https://dannys.cloud/share-resources-across-stacks-aws-cdk)
-- [Create reusable Assume role script for Cross-Account AWS access](https://dannys.cloud/create-reusable-assume-role-script-cross-account-aws)
-- [7 Tactical tips that increases your chances of passing an AWS Certification exam](https://dannys.cloud/7-tactical-tips-aws-certification-exam)
-- [How to set up AWS CDK - complete guide](https://dannys.cloud/how-to-set-up-aws-cdk)
+- [How to pass the AWS DevOps Engineer Professional exam - complete guide](https://towardsthecloud.com/aws-devops-engineer-professional-exam-guide)
+- [How to share resources across stacks in AWS CDK](https://towardsthecloud.com/share-resources-across-stacks-aws-cdk)
+- [Create reusable Assume role script for Cross-Account AWS access](https://towardsthecloud.com/create-reusable-assume-role-script-cross-account-aws)
+- [7 Tactical tips that increases your chances of passing an AWS Certification exam](https://towardsthecloud.com/7-tactical-tips-aws-certification-exam)
+- [How to set up AWS CDK - complete guide](https://towardsthecloud.com/how-to-set-up-aws-cdk)
 <!-- BLOG-POST-LIST:END -->
 
-▶ [...click here for more blog articles](https://dannys.cloud)
+▶ [...click here for more blog articles](https://towardsthecloud.com)
 
 ## Open Source Projects
 
-| 🎁 Projects                                                                               | ⭐ Stars                                                                                         | 📚 Forks                                                                                         | 🛎 Issues                                                                                          | 📬 Pull requests                                                                                     |
-| ---------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
-| [AWS Toolbox](https://github.com/dannysteenman/aws-toolbox)                              | ![](https://img.shields.io/github/stars/dannysteenman/aws-toolbox?color=green)                  | ![](https://img.shields.io/github/forks/dannysteenman/aws-toolbox?color=green)                  | ![](https://img.shields.io/github/issues/dannysteenman/aws-toolbox?color=green)                   | ![](https://img.shields.io/github/issues-pr/dannysteenman/aws-toolbox?color=orange)                 |
-| [CDK Construct Snippets](https://github.com/dannysteenman/vscode-cdk-snippets) | ![](https://img.shields.io/github/stars/dannysteenman/vscode-cdk-snippets?color=green) | ![](https://img.shields.io/github/forks/dannysteenman/vscode-cdk-snippets?color=green) | ![](https://img.shields.io/github/issues/dannysteenman/vscode-cdk-snippets?color=yellow) | ![](https://img.shields.io/github/issues-pr/dannysteenman/vscode-cdk-snippets?color=green) |
+| 🎁 Projects                                                                                 | ⭐ Stars                                                                                           | 📚 Forks                                                                                           | 🛎 Issues                                                                                            | 📬 Pull requests                                                                                       |
+| ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
+| [AWS Toolbox](https://github.com/dannysteenman/aws-toolbox)                                | ![](https://img.shields.io/github/stars/dannysteenman/aws-toolbox?color=green)                    | ![](https://img.shields.io/github/forks/dannysteenman/aws-toolbox?color=green)                    | ![](https://img.shields.io/github/issues/dannysteenman/aws-toolbox?color=green)                     | ![](https://img.shields.io/github/issues-pr/dannysteenman/aws-toolbox?color=orange)                   |
+| [CDK Construct Snippets](https://github.com/dannysteenman/vscode-cdk-snippets)             | ![](https://img.shields.io/github/stars/dannysteenman/vscode-cdk-snippets?color=green)            | ![](https://img.shields.io/github/forks/dannysteenman/vscode-cdk-snippets?color=green)            | ![](https://img.shields.io/github/issues/dannysteenman/vscode-cdk-snippets?color=yellow)            | ![](https://img.shields.io/github/issues-pr/dannysteenman/vscode-cdk-snippets?color=green)            |
 | [CloudFormation Snippets](https://github.com/dannysteenman/vscode-cloudformation-snippets) | ![](https://img.shields.io/github/stars/dannysteenman/vscode-cloudformation-snippets?color=green) | ![](https://img.shields.io/github/forks/dannysteenman/vscode-cloudformation-snippets?color=green) | ![](https://img.shields.io/github/issues/dannysteenman/vscode-cloudformation-snippets?color=yellow) | ![](https://img.shields.io/github/issues-pr/dannysteenman/vscode-cloudformation-snippets?color=green) |
 
 ## 📈 GitHub Stats
