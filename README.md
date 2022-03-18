@@ -24,11 +24,11 @@ I’m an AWS Cloud Consultant who likes to build things in the Cloud. I write ab
 ## 📚 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [How to migrate to AWS CDK v2](https://towardsthecloud.com/how-to-migrate-to-aws-cdk-v2)
+- [Configure OpenID Connect for Bitbucket in AWS CDK](https://towardsthecloud.com/aws-cdk-openid-connect-bitbucket-example)
+- [Configure OpenID Connect for GitHub in AWS CDK](https://towardsthecloud.com/aws-cdk-openid-connect-github-example)
 - [Scheduled Fargate Task example in AWS CDK](https://towardsthecloud.com/aws-cdk-scheduled-fargate-task-example)
 - [AWS Toolbox 🧰 - A Collection of Awesome Tools and Scripts for Cloud Engineers](https://towardsthecloud.com/aws-toolbox-cloud-engineers)
-- [Application Load Balanced Fargate Service example in AWS CDK](https://towardsthecloud.com/aws-cdk-application-load-balanced-fargate-service-example)
-- [How to pass the AWS DevOps Engineer Professional exam - complete guide](https://towardsthecloud.com/aws-devops-engineer-professional-exam-guide)
-- [How to share resources across stacks in AWS CDK](https://towardsthecloud.com/share-resources-across-stacks-aws-cdk)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...click here for more blog articles](https://towardsthecloud.com)
