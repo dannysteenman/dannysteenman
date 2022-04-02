@@ -24,11 +24,11 @@ I’m an AWS Cloud Consultant who likes to build things in the Cloud. I write ab
 ## 📚 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Fix error: cannot consume a cross reference from stack in AWS CDK](https://towardsthecloud.com/aws-cdk-cannot-consume-cross-reference-from-stack)
 - [How to migrate to AWS CDK v2](https://towardsthecloud.com/how-to-migrate-to-aws-cdk-v2)
 - [Configure OpenID Connect for Bitbucket in AWS CDK](https://towardsthecloud.com/aws-cdk-openid-connect-bitbucket-example)
 - [Configure OpenID Connect for GitHub in AWS CDK](https://towardsthecloud.com/aws-cdk-openid-connect-github-example)
 - [Scheduled Fargate Task example in AWS CDK](https://towardsthecloud.com/aws-cdk-scheduled-fargate-task-example)
-- [AWS Toolbox 🧰 - A Collection of Awesome Tools and Scripts for Cloud Engineers](https://towardsthecloud.com/aws-toolbox-cloud-engineers)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...click here for more blog articles](https://towardsthecloud.com)
