@@ -24,11 +24,11 @@ I’m an AWS Cloud Consultant who likes to build things in the Cloud. I write ab
 ## 📚 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [The complete guide to AWS Service Control Policies](https://towardsthecloud.com/blog/aws-service-control-policy-guide)
+- [AWS Organizations - A Complete Guide with Best Practices](https://towardsthecloud.com/blog/aws-organizations-guide)
+- [AWS Service Control Policies &lpar;SCPs&rpar; - A Complete Guide with examples](https://towardsthecloud.com/blog/aws-service-control-policy-guide)
 - [How to pass the AWS DevOps Engineer Professional exam - 2022 guide](https://towardsthecloud.com/blog/aws-devops-engineer-professional-exam-guide)
 - [How to pass the AWS Solutions Architect Associate exam - 2022 guide](https://towardsthecloud.com/blog/aws-solutions-architect-associate-exam-guide)
 - [How to pass the AWS Cloud Practitioner exam - 2022 guide](https://towardsthecloud.com/blog/aws-cloud-practitioner-exam-guide)
-- [How to migrate to AWS CDK v2](https://towardsthecloud.com/blog/how-to-migrate-to-aws-cdk-v2)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...click here for more blog articles](https://towardsthecloud.com)
