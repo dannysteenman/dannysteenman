@@ -25,10 +25,10 @@ I’m an AWS Cloud Consultant who likes to build things in the Cloud. I write ab
 
 <!-- BLOG-POST-LIST:START -->
 - [AWS Organizations - A Complete Guide with Best Practices](https://towardsthecloud.com/blog/aws-organizations-guide)
+- [Fix error: Found an encoded list token string in a scalar string context in AWS CDK](https://towardsthecloud.com/library/aws-cdk-encoded-list-token-scalar-string-context)
 - [AWS Service Control Policies &lpar;SCPs&rpar; - A Complete Guide with examples](https://towardsthecloud.com/blog/aws-service-control-policy-guide)
-- [How to pass the AWS DevOps Engineer Professional exam - 2022 guide](https://towardsthecloud.com/blog/aws-devops-engineer-professional-exam-guide)
-- [How to pass the AWS Solutions Architect Associate exam - 2022 guide](https://towardsthecloud.com/blog/aws-solutions-architect-associate-exam-guide)
-- [How to pass the AWS Cloud Practitioner exam - 2022 guide](https://towardsthecloud.com/blog/aws-cloud-practitioner-exam-guide)
+- [AWS CloudFormation Properties Cheat Sheet](https://towardsthecloud.com/library/aws-cloudformation-resource-properties)
+- [AWS CloudFormation Attributes &lpar;GetAtt&rpar; Cheat Sheet](https://towardsthecloud.com/library/aws-cloudformation-resource-attributes)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...click here for more blog articles](https://towardsthecloud.com)
