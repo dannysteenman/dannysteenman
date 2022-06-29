@@ -24,11 +24,11 @@ I’m an AWS Cloud Consultant who likes to build things in the Cloud. I write ab
 ## 📚 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Organizations - A Complete Guide with Best Practices](https://towardsthecloud.com/blog/aws-organizations-guide)
-- [Fix error: Found an encoded list token string in a scalar string context in AWS CDK](https://towardsthecloud.com/library/aws-cdk-encoded-list-token-scalar-string-context)
-- [AWS Service Control Policies &lpar;SCPs&rpar; - A Complete Guide with examples](https://towardsthecloud.com/blog/aws-service-control-policy-guide)
-- [AWS CloudFormation Properties Cheat Sheet](https://towardsthecloud.com/library/aws-cloudformation-resource-properties)
-- [AWS CloudFormation Attributes &lpar;GetAtt&rpar; Cheat Sheet](https://towardsthecloud.com/library/aws-cloudformation-resource-attributes)
+- [How to get an absolute path in Python](https://towardsthecloud.com/how-to-get-absolute-path-python)
+- [How to get a relative path in Python](https://towardsthecloud.com/how-to-get-relative-path-python)
+- [Find your AWS Account ID in 2 simple ways](https://towardsthecloud.com/how-to-find-aws-account-id)
+- [How to empty an S3 bucket using AWS CLI](https://towardsthecloud.com/aws-cli-empty-s3-bucket)
+- [How to deploy a CloudFormation template](https://towardsthecloud.com/deploy-cloudformation-template)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...click here for more blog articles](https://towardsthecloud.com)
