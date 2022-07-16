@@ -24,11 +24,11 @@ I’m an AWS Cloud Consultant who likes to build things in the Cloud. I write ab
 ## 📚 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [How to get an absolute path in Python](https://towardsthecloud.com/how-to-get-absolute-path-python)
-- [How to get a relative path in Python](https://towardsthecloud.com/how-to-get-relative-path-python)
-- [Find your AWS Account ID in 2 simple ways](https://towardsthecloud.com/how-to-find-aws-account-id)
+- [Solve: You have requested more vCPU capacity than your current vCPU limit](https://towardsthecloud.com/amazon-ec2-requested-more-vcpu-capacity)
+- [How to get an absolute path in Python](https://towardsthecloud.com/get-absolute-path-python)
+- [How to get a relative path in Python](https://towardsthecloud.com/get-relative-path-python)
+- [Find your AWS Account ID in 2 simple ways](https://towardsthecloud.com/find-aws-account-id)
 - [How to empty an S3 bucket using AWS CLI](https://towardsthecloud.com/aws-cli-empty-s3-bucket)
-- [How to deploy a CloudFormation template](https://towardsthecloud.com/deploy-cloudformation-template)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...click here for more blog articles](https://towardsthecloud.com)
