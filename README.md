@@ -24,11 +24,11 @@ I’m an AWS Cloud Consultant who likes to build things in the Cloud. I write ab
 ## 📚 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [What is the AWS CDK? &lpar;A beginners guide&rpar;](https://towardsthecloud.com/aws-cdk)
 - [How to set up an Amazon S3 Bucket using AWS CDK](https://towardsthecloud.com/aws-cdk-s3-bucket)
 - [What are AWS Service Control Policies &lpar;SCPs&rpar; – 2022 guide](https://towardsthecloud.com/aws-scp-service-control-policies)
 - [3 AWS Service Control Policy &lpar;SCP&rpar; examples to secure your accounts](https://towardsthecloud.com/aws-scp-examples)
 - [What is a landing zone? &lpar;explained in 4 min&rpar;](https://towardsthecloud.com/landing-zone)
-- [Use AWS ECS execute command to access a container on AWS Fargate and EC2](https://towardsthecloud.com/amazon-ecs-execute-command-access-container)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...click here for more blog articles](https://towardsthecloud.com)
