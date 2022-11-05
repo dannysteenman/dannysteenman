@@ -24,11 +24,11 @@ I’m an AWS Cloud Consultant who likes to build things in the Cloud. I write ab
 ## 📚 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Task role vs task execution role in Amazon ECS](https://towardsthecloud.com/amazon-ecs-task-role-vs-execution-role)
+- [Trigger a Cloudwatch alarm using AWS CLI](https://towardsthecloud.com/aws-cli-trigger-cloudwatch-alarm)
 - [How to get the metadata on an EC2 instance](https://towardsthecloud.com/amazon-ec2-instance-metadata)
 - [How to list all active AWS resources in a VPC](https://towardsthecloud.com/amazon-vpc-list-resources)
 - [How to attach or change a security group on an EC2 instance](https://towardsthecloud.com/amazon-ec2-change-security-group)
-- [How to set an absolute path in TypeScript](https://towardsthecloud.com/set-absolute-path-typescript)
-- [What is the AWS CDK? &lpar;A beginners guide&rpar;](https://towardsthecloud.com/aws-cdk)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...click here for more blog articles](https://towardsthecloud.com)
