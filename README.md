@@ -24,11 +24,11 @@ I’m an AWS Cloud Consultant who likes to build things in the Cloud. I write ab
 ## 📚 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [How to pass the AWS Developer Associate exam – guide &lpar;2023&rpar;](https://towardsthecloud.com/aws-developer-associate-exam-guide)
 - [How to pass the AWS Security Specialty exam – guide &lpar;2023&rpar;](https://towardsthecloud.com/aws-security-specialty-exam-guide)
 - [Distributed load testing on AWS with JMeter simplified](https://towardsthecloud.com/aws-distributed-load-testing)
 - [Amazon Resource Names &lpar;ARNs&rpar; format cheat sheet](https://towardsthecloud.com/amazon-resource-names-arns)
 - [Task role vs task execution role in Amazon ECS](https://towardsthecloud.com/amazon-ecs-task-role-vs-execution-role)
-- [Trigger a Cloudwatch alarm using AWS CLI](https://towardsthecloud.com/aws-cli-trigger-cloudwatch-alarm)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...click here for more blog articles](https://towardsthecloud.com)
