@@ -24,11 +24,11 @@ I’m an AWS Cloud Consultant who likes to build things in the Cloud. I write ab
 ## 📚 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [How to pass the AWS SysOps Administrator Associate exam – guide &lpar;2023&rpar;](https://towardsthecloud.com/aws-sysops-administrator-associate-exam-guide)
-- [How to pass the AWS Developer Associate exam – guide &lpar;2023&rpar;](https://towardsthecloud.com/aws-developer-associate-exam-guide)
-- [How to pass the AWS Security Specialty exam – guide &lpar;2023&rpar;](https://towardsthecloud.com/aws-security-specialty-exam-guide)
-- [Distributed load testing on AWS with JMeter simplified](https://towardsthecloud.com/aws-distributed-load-testing)
-- [Amazon Resource Names &lpar;ARNs&rpar; format cheat sheet](https://towardsthecloud.com/amazon-resource-names-arns)
+- [How to execute Boto3 methods on Multiple AWS Accounts](https://towardsthecloud.com/aws-sdk-execute-boto3-methods-multiple-aws-accounts)
+- [Clean up inactive task definitions in Amazon ECS](https://towardsthecloud.com/amazon-ecs-delete-inactive-task-definitions)
+- [How to set a CloudWatch Logs Retention Policy for all log groups](https://towardsthecloud.com/amazon-cloudwatch-set-logs-retention-policy)
+- [Clean up unused Elastic IP addresses across all AWS Regions](https://towardsthecloud.com/amazon-ec2-delete-unused-elastic-ip-addresses)
+- [Clean up Unattached EBS Volumes across All AWS Regions](https://towardsthecloud.com/amazon-ec2-delete-unattached-ebs-volumes)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...click here for more blog articles](https://towardsthecloud.com)
