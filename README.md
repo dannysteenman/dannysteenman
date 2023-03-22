@@ -24,11 +24,11 @@ I’m an AWS Cloud Consultant who likes to build things in the Cloud. I write ab
 ## 📚 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [List AWS Accounts by Organizational Unit &lpar;OU&rpar; Name](https://towardsthecloud.com/aws-organizations-list-aws-accounts-organizational-unit)
+- [Optimize your AWS CDK Project Structure for Growth](https://towardsthecloud.com/aws-cdk-project-structure)
 - [How to execute Boto3 methods on Multiple AWS Accounts](https://towardsthecloud.com/aws-sdk-execute-boto3-methods-multiple-aws-accounts)
 - [Clean up inactive task definitions in Amazon ECS](https://towardsthecloud.com/amazon-ecs-delete-inactive-task-definitions)
 - [How to set a CloudWatch Logs Retention Policy for all log groups](https://towardsthecloud.com/amazon-cloudwatch-set-logs-retention-policy)
-- [Clean up unused Elastic IP addresses across all AWS Regions](https://towardsthecloud.com/amazon-ec2-delete-unused-elastic-ip-addresses)
-- [Clean up Unattached EBS Volumes across All AWS Regions](https://towardsthecloud.com/amazon-ec2-delete-unattached-ebs-volumes)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...click here for more blog articles](https://towardsthecloud.com)
