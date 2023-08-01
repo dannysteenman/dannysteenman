@@ -1,7 +1,7 @@
 # [![Danny Steenman header](https://raw.githubusercontent.com/dannysteenman/dannysteenman/main/icon/gh-header.png)](https://towardsthecloud.com)
 
 <p align="center">
-  <img src="https://gpvc.arturio.dev/dannysteenman" alt="profile views"> •
+  <img src="https://komarev.com/ghpvc/?username=dannysteenman" alt="profile views"> •
   <a href="https://twitter.com/dannysteenman"><img src="https://img.shields.io/twitter/follow/dannysteenman?label=%40dannysteenman&style=social"></a>
 </p>
 
