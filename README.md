@@ -24,11 +24,11 @@ I’m an AWS Cloud Consultant who likes to build things in the Cloud. I write ab
 ## 📚 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Create a DependsOn relation between resources in AWS CDK](https://towardsthecloud.com/aws-cdk-dependson-relation)
+- [Assign a Custom Role to a Lambda Function with AWS CDK](https://towardsthecloud.com/aws-cdk-custom-role-lambda-function)
 - [Managing AWS Credentials with Boto3 in Python – Complete guide](https://towardsthecloud.com/aws-sdk-aws-credentials-boto3)
 - [AWS CDK Bootstrap: The Why and the How](https://towardsthecloud.com/aws-cdk-bootstrap)
 - [List AWS Accounts by Organizational Unit &lpar;OU&rpar; Name](https://towardsthecloud.com/aws-organizations-list-aws-accounts-organizational-unit)
-- [Optimize your AWS CDK Project Structure for Growth](https://towardsthecloud.com/aws-cdk-project-structure)
-- [How to execute Boto3 methods on Multiple AWS Accounts](https://towardsthecloud.com/aws-sdk-execute-boto3-methods-multiple-aws-accounts)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...click here for more blog articles](https://towardsthecloud.com)
