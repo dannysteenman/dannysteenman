@@ -24,11 +24,11 @@ I’m an AWS Cloud Consultant who likes to build things in the Cloud. I write ab
 ## 📚 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Easily verify your credentials and its permissions using the AWS CLI](https://towardsthecloud.com/aws-cli-credentials-permissions)
+- [How to upgrade the AWS CLI to the latest version](https://towardsthecloud.com/aws-cli-upgrade-version)
+- [How to assume an IAM role in AWS – Simplest method](https://towardsthecloud.com/aws-cli-assume-iam-role)
 - [Designing a Multi-Principal IAM Role using AWS CDK](https://towardsthecloud.com/aws-cdk-composite-principal)
 - [Create a DependsOn relation between resources in AWS CDK](https://towardsthecloud.com/aws-cdk-dependson-relation)
-- [Assign a Custom Role to a Lambda Function with AWS CDK](https://towardsthecloud.com/aws-cdk-custom-role-lambda-function)
-- [Managing AWS Credentials with Boto3 in Python – Complete guide](https://towardsthecloud.com/aws-sdk-aws-credentials-boto3)
-- [AWS CDK Bootstrap: The Why and the How](https://towardsthecloud.com/aws-cdk-bootstrap)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...click here for more blog articles](https://towardsthecloud.com)
