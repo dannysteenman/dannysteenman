@@ -24,11 +24,11 @@ I’m an AWS Cloud Consultant who likes to build things in the Cloud. I write ab
 ## 📚 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [Easily verify your credentials and its permissions using the AWS CLI](https://towardsthecloud.com/aws-cli-credentials-permissions)
-- [How to upgrade the AWS CLI to the latest version](https://towardsthecloud.com/aws-cli-upgrade-version)
-- [How to assume an IAM role in AWS – Simplest method](https://towardsthecloud.com/aws-cli-assume-iam-role)
-- [Designing a Multi-Principal IAM Role using AWS CDK](https://towardsthecloud.com/aws-cdk-composite-principal)
-- [Create a DependsOn relation between resources in AWS CDK](https://towardsthecloud.com/aws-cdk-dependson-relation)
+- [Easily install Python 3 and Pip on an EC2 Instance](https://towardsthecloud.com/amazon-ec2-install-python-pip)
+- [Use AWS Session Manager to Securely connect to an EC2 instance](https://towardsthecloud.com/amazon-ec2-instance-connect-aws-session-manager)
+- [Check if a key exists in an S3 Bucket using Boto3 – A practical guide](https://towardsthecloud.com/aws-sdk-key-exists-s3-bucket-boto3)
+- [Get the public ip address of your EC2 instance quickly](https://towardsthecloud.com/get-ip-address-amazon-ec2-instance)
+- [How to write a file or data to S3 using Python Boto3](https://towardsthecloud.com/aws-sdk-write-data-amazon-s3-boto3)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...click here for more blog articles](https://towardsthecloud.com)
