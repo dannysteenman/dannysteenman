@@ -24,11 +24,11 @@ I’m an AWS Cloud Consultant who likes to build things in the Cloud. I write ab
 ## 📚 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Solved: Missing the following required SSO configuration values](https://towardsthecloud.com/aws-sso-missing-sso-configuration-values)
+- [Solved: &lpar;invalidparameterexception&rpar; when calling the executecommand operation](https://towardsthecloud.com/amazon-ecs-invalidparameterexception-executecommand)
+- [Solved: &lpar;forbiddenexception&rpar; when calling the getrolecredentials operation in AWS SSO](https://towardsthecloud.com/aws-sso-forbiddenexception-getrolecredentials-operation)
+- [How to switch profiles using AWS CLI](https://towardsthecloud.com/aws-cli-switch-profiles)
 - [Easily install Python 3 and Pip on an EC2 Instance](https://towardsthecloud.com/amazon-ec2-install-python-pip)
-- [Use AWS Session Manager to Securely connect to an EC2 instance](https://towardsthecloud.com/amazon-ec2-instance-connect-aws-session-manager)
-- [Check if a key exists in an S3 Bucket using Boto3 – A practical guide](https://towardsthecloud.com/aws-sdk-key-exists-s3-bucket-boto3)
-- [Get the public ip address of your EC2 instance quickly](https://towardsthecloud.com/get-ip-address-amazon-ec2-instance)
-- [How to write a file or data to S3 using Python Boto3](https://towardsthecloud.com/aws-sdk-write-data-amazon-s3-boto3)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...click here for more blog articles](https://towardsthecloud.com)
