@@ -24,11 +24,11 @@ I’m an AWS Cloud Consultant who likes to build things in the Cloud. I write ab
 ## 📚 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon ECS vs Amazon EC2: What’s Best for Modern Cloud?](https://towardsthecloud.com/amazon-ecs-vs-amazon-ec2)
+- [Amazon ECS vs AWS Fargate: 5 Most Important Differences Explained](https://towardsthecloud.com/amazon-ecs-vs-aws-fargate)
 - [Solved: Missing the following required SSO configuration values](https://towardsthecloud.com/aws-sso-missing-sso-configuration-values)
 - [Solved: &lpar;invalidparameterexception&rpar; when calling the executecommand operation](https://towardsthecloud.com/amazon-ecs-invalidparameterexception-executecommand)
 - [Solved: &lpar;forbiddenexception&rpar; when calling the getrolecredentials operation in AWS SSO](https://towardsthecloud.com/aws-sso-forbiddenexception-getrolecredentials-operation)
-- [How to switch profiles using AWS CLI](https://towardsthecloud.com/aws-cli-switch-profiles)
-- [Easily install Python 3 and Pip on an EC2 Instance](https://towardsthecloud.com/amazon-ec2-install-python-pip)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...click here for more blog articles](https://towardsthecloud.com)
