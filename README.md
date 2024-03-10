@@ -7,7 +7,11 @@
 
 # Hi, I'm Danny!
 
-I’m an AWS Cloud Consultant who likes to build things in the Cloud. I write about my learnings on my [Blog](https://towardsthecloud.com) and on [Twitter](https://twitter.com/dannysteenman).
+I’m a [Freelance Cloud Engineer](https://www.linkedin.com/in/dannysteenman/) who enjoys building infrastructure on AWS Cloud.
+
+I'm passionate about sharing my journey and insights, which you can explore through my articles on my [Blog](https://towardsthecloud.com/blog) and snippets of wisdom on [Twitter](https://twitter.com/dannysteenman).
+
+If you're looking for expertise to elevate your cloud infrastructure, then don't hesitate to get in [touch with me](https://towardsthecloud.com/contact)!
 
 ## 🧰 Tools & Technologies
 
@@ -21,7 +25,17 @@ I’m an AWS Cloud Consultant who likes to build things in the Cloud. I write ab
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Amazon_Web_Services-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a)
 
-## 📚 Latest Blog Articles
+## My Open Source Projects
+
+| 🎁 Projects                                                                                         | ⭐ Stars                                                                                           | 📚 Forks                                                                                           | 🛎 Issues                                                                                            | 📬 Pull requests                                                                                       |
+| -------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
+| [AWS CDK Starterkit](https://github.com/dannysteenman/aws-cdk-starterkit)                          | ![](https://img.shields.io/github/stars/dannysteenman/aws-cdk-starterkit?color=green)             | ![](https://img.shields.io/github/forks/dannysteenman/aws-cdk-starterkit?color=green)             | ![](https://img.shields.io/github/issues/dannysteenman/aws-cdk-starterkit?color=green)              | ![](https://img.shields.io/github/issues-pr/dannysteenman/aws-cdk-starterkit?color=orange)            |
+| [AWS CDK Examples](https://github.com/dannysteenman/aws-cdk-examples)                              | ![](https://img.shields.io/github/stars/dannysteenman/aws-cdk-examples?color=green)               | ![](https://img.shields.io/github/forks/dannysteenman/aws-cdk-examples?color=green)               | ![](https://img.shields.io/github/issues/dannysteenman/aws-cdk-examples?color=green)                | ![](https://img.shields.io/github/issues-pr/dannysteenman/aws-cdk-examples?color=orange)              |
+| [AWS Toolbox](https://github.com/dannysteenman/aws-toolbox)                                        | ![](https://img.shields.io/github/stars/dannysteenman/aws-toolbox?color=green)                    | ![](https://img.shields.io/github/forks/dannysteenman/aws-toolbox?color=green)                    | ![](https://img.shields.io/github/issues/dannysteenman/aws-toolbox?color=green)                     | ![](https://img.shields.io/github/issues-pr/dannysteenman/aws-toolbox?color=orange)                   |
+| [VS Code CDK Construct Snippets](https://github.com/dannysteenman/vscode-cdk-snippets)             | ![](https://img.shields.io/github/stars/dannysteenman/vscode-cdk-snippets?color=green)            | ![](https://img.shields.io/github/forks/dannysteenman/vscode-cdk-snippets?color=green)            | ![](https://img.shields.io/github/issues/dannysteenman/vscode-cdk-snippets?color=yellow)            | ![](https://img.shields.io/github/issues-pr/dannysteenman/vscode-cdk-snippets?color=green)            |
+| [VS Code CloudFormation Snippets](https://github.com/dannysteenman/vscode-cloudformation-snippets) | ![](https://img.shields.io/github/stars/dannysteenman/vscode-cloudformation-snippets?color=green) | ![](https://img.shields.io/github/forks/dannysteenman/vscode-cloudformation-snippets?color=green) | ![](https://img.shields.io/github/issues/dannysteenman/vscode-cloudformation-snippets?color=yellow) | ![](https://img.shields.io/github/issues-pr/dannysteenman/vscode-cloudformation-snippets?color=green) |
+
+## 📚 My Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
 - [Amazon ECS vs Amazon EC2: What’s Best for Modern Cloud?](https://towardsthecloud.com/amazon-ecs-vs-amazon-ec2)
@@ -32,15 +46,6 @@ I’m an AWS Cloud Consultant who likes to build things in the Cloud. I write ab
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...click here for more blog articles](https://towardsthecloud.com)
-
-## Open Source Projects
-
-| 🎁 Projects                                                                                 | ⭐ Stars                                                                                           | 📚 Forks                                                                                           | 🛎 Issues                                                                                            | 📬 Pull requests                                                                                       |
-| ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
-| [AWS Toolbox](https://github.com/dannysteenman/aws-toolbox)                                | ![](https://img.shields.io/github/stars/dannysteenman/aws-toolbox?color=green)                    | ![](https://img.shields.io/github/forks/dannysteenman/aws-toolbox?color=green)                    | ![](https://img.shields.io/github/issues/dannysteenman/aws-toolbox?color=green)                     | ![](https://img.shields.io/github/issues-pr/dannysteenman/aws-toolbox?color=orange)                   |
-| [AWS CDK Examples](https://github.com/dannysteenman/aws-cdk-examples)                                | ![](https://img.shields.io/github/stars/dannysteenman/aws-cdk-examples?color=green)                    | ![](https://img.shields.io/github/forks/dannysteenman/aws-cdk-examples?color=green)                    | ![](https://img.shields.io/github/issues/dannysteenman/aws-cdk-examples?color=green)                     | ![](https://img.shields.io/github/issues-pr/dannysteenman/aws-cdk-examples?color=orange)                   |
-| [CDK Construct Snippets](https://github.com/dannysteenman/vscode-cdk-snippets)             | ![](https://img.shields.io/github/stars/dannysteenman/vscode-cdk-snippets?color=green)            | ![](https://img.shields.io/github/forks/dannysteenman/vscode-cdk-snippets?color=green)            | ![](https://img.shields.io/github/issues/dannysteenman/vscode-cdk-snippets?color=yellow)            | ![](https://img.shields.io/github/issues-pr/dannysteenman/vscode-cdk-snippets?color=green)            |
-| [CloudFormation Snippets](https://github.com/dannysteenman/vscode-cloudformation-snippets) | ![](https://img.shields.io/github/stars/dannysteenman/vscode-cloudformation-snippets?color=green) | ![](https://img.shields.io/github/forks/dannysteenman/vscode-cloudformation-snippets?color=green) | ![](https://img.shields.io/github/issues/dannysteenman/vscode-cloudformation-snippets?color=yellow) | ![](https://img.shields.io/github/issues-pr/dannysteenman/vscode-cloudformation-snippets?color=green) |
 
 ## 📈 GitHub Stats
 
