@@ -11,7 +11,28 @@ I’m a [Freelance Cloud Engineer](https://www.linkedin.com/in/dannysteenman/) w
 
 I'm passionate about sharing my journey and insights, which you can explore through my articles on my [Blog](https://towardsthecloud.com/blog) and snippets of wisdom on [Twitter](https://twitter.com/dannysteenman).
 
-If you're looking for expertise to elevate your cloud infrastructure, then don't hesitate to get in [touch with me](https://towardsthecloud.com/contact)!
+> [!TIP]
+> If you're looking for expertise to elevate your cloud infrastructure, then don't hesitate to get in [touch with me](https://towardsthecloud.com/contact)!
+>
+> <details><summary>📚 <strong>Discover More About Us</strong></summary>
+>
+> <br/>
+>
+> Towards the Cloud is a one-person agency with over 9 years of extensive hands-on experience in architecting and building highly scalable distributed systems on AWS Cloud using Infrastructure as Code for startups and enterprises.
+>
+> *Maximize your development speed by harnessing our expertise in crafting high-performance Cloud infrastructures.*
+>
+> #### Why Choose Towards the Cloud?
+>
+> - **Expertise in AWS CDK**: Leverage the full power of AWS Cloud Development Kit (AWS CDK) with our deep expertise. We architect and build infrastructure as code (IaC) solutions that are maintainable, scalable, and fully automated.
+> - **Tailored Solutions**: Your business is unique, and so are your cloud needs. We provide personalized consultations and solutions tailored to perfectly align with your project requirements and business goals.
+> - **Cost-Effective and Efficient**: Benefit from our streamlined processes and deep AWS knowledge to optimize costs without compromising on performance or security.
+> - **One-on-One Attention**: As a one-person agency, Towards the Cloud guarantees you receive dedicated support and expertise directly from an AWS Cloud Engineer. This ensures high-quality deliverables and swift decision-making.<br/>
+> - **Seamless CI/CD**: Empower your team to manage infrastructure changes confidently and efficiently through Pull Requests, leveraging the full power of GitHub Actions.
+>
+> <a href="https://towardsthecloud.com/contact"><img alt="Schedule introduction call" src="https://img.shields.io/badge/schedule%20introduction%20call-success.svg?style=for-the-badge"/></a>
+> </details>
+
 
 ## 🧰 Tools & Technologies
 
@@ -27,11 +48,11 @@ If you're looking for expertise to elevate your cloud infrastructure, then don't
 
 ## My Open Source Projects
 
-| 🎁 Projects                                                                                         | ⭐ Stars                                                                                           | 📚 Forks                                                                                           | 🛎 Issues                                                                                            | 📬 Pull requests                                                                                       |
-| -------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
-| [AWS CDK Starterkit](https://github.com/dannysteenman/aws-cdk-starterkit)                          | ![](https://img.shields.io/github/stars/dannysteenman/aws-cdk-starterkit?color=green)             | ![](https://img.shields.io/github/forks/dannysteenman/aws-cdk-starterkit?color=green)             | ![](https://img.shields.io/github/issues/dannysteenman/aws-cdk-starterkit?color=green)              | ![](https://img.shields.io/github/issues-pr/dannysteenman/aws-cdk-starterkit?color=orange)            |
-| [AWS CDK Examples](https://github.com/dannysteenman/aws-cdk-examples)                              | ![](https://img.shields.io/github/stars/dannysteenman/aws-cdk-examples?color=green)               | ![](https://img.shields.io/github/forks/dannysteenman/aws-cdk-examples?color=green)               | ![](https://img.shields.io/github/issues/dannysteenman/aws-cdk-examples?color=green)                | ![](https://img.shields.io/github/issues-pr/dannysteenman/aws-cdk-examples?color=orange)              |
-| [AWS Toolbox](https://github.com/dannysteenman/aws-toolbox)                                        | ![](https://img.shields.io/github/stars/dannysteenman/aws-toolbox?color=green)                    | ![](https://img.shields.io/github/forks/dannysteenman/aws-toolbox?color=green)                    | ![](https://img.shields.io/github/issues/dannysteenman/aws-toolbox?color=green)                     | ![](https://img.shields.io/github/issues-pr/dannysteenman/aws-toolbox?color=orange)                   |
+| 🎁 Projects                                                                                        | ⭐ Stars                                                                                           | 📚 Forks                                                                                           | 🛎 Issues                                                                                            | 📬 Pull requests                                                                                       |
+| ------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
+| [AWS CDK Starterkit](https://github.com/dannysteenman/aws-cdk-starterkit)                         | ![](https://img.shields.io/github/stars/dannysteenman/aws-cdk-starterkit?color=green)             | ![](https://img.shields.io/github/forks/dannysteenman/aws-cdk-starterkit?color=green)             | ![](https://img.shields.io/github/issues/dannysteenman/aws-cdk-starterkit?color=green)              | ![](https://img.shields.io/github/issues-pr/dannysteenman/aws-cdk-starterkit?color=orange)            |
+| [AWS CDK Examples](https://github.com/dannysteenman/aws-cdk-examples)                             | ![](https://img.shields.io/github/stars/dannysteenman/aws-cdk-examples?color=green)               | ![](https://img.shields.io/github/forks/dannysteenman/aws-cdk-examples?color=green)               | ![](https://img.shields.io/github/issues/dannysteenman/aws-cdk-examples?color=green)                | ![](https://img.shields.io/github/issues-pr/dannysteenman/aws-cdk-examples?color=orange)              |
+| [AWS Toolbox](https://github.com/dannysteenman/aws-toolbox)                                       | ![](https://img.shields.io/github/stars/dannysteenman/aws-toolbox?color=green)                    | ![](https://img.shields.io/github/forks/dannysteenman/aws-toolbox?color=green)                    | ![](https://img.shields.io/github/issues/dannysteenman/aws-toolbox?color=green)                     | ![](https://img.shields.io/github/issues-pr/dannysteenman/aws-toolbox?color=orange)                   |
 | [VSCode CDK Construct Snippets](https://github.com/dannysteenman/vscode-cdk-snippets)             | ![](https://img.shields.io/github/stars/dannysteenman/vscode-cdk-snippets?color=green)            | ![](https://img.shields.io/github/forks/dannysteenman/vscode-cdk-snippets?color=green)            | ![](https://img.shields.io/github/issues/dannysteenman/vscode-cdk-snippets?color=yellow)            | ![](https://img.shields.io/github/issues-pr/dannysteenman/vscode-cdk-snippets?color=green)            |
 | [VSCode CloudFormation Snippets](https://github.com/dannysteenman/vscode-cloudformation-snippets) | ![](https://img.shields.io/github/stars/dannysteenman/vscode-cloudformation-snippets?color=green) | ![](https://img.shields.io/github/forks/dannysteenman/vscode-cloudformation-snippets?color=green) | ![](https://img.shields.io/github/issues/dannysteenman/vscode-cloudformation-snippets?color=yellow) | ![](https://img.shields.io/github/issues-pr/dannysteenman/vscode-cloudformation-snippets?color=green) |
 
