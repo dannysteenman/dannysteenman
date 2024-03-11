@@ -14,7 +14,7 @@ I'm passionate about sharing my journey and insights, which you can explore thro
 > [!TIP]
 > If you're looking for expertise to elevate your cloud infrastructure, then don't hesitate to get in [touch with me](https://towardsthecloud.com/contact)!
 >
-> <details><summary>📚 <strong>Discover More About Us</strong></summary>
+> <details><summary>📚 <strong>Discover more about us</strong></summary>
 >
 > <br/>
 >
