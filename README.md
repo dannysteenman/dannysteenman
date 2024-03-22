@@ -34,23 +34,24 @@ I'm passionate about sharing my journey and insights, which you can explore thro
 > </details>
 
 
-## 🧰 Tools & Technologies
+## 🥞 My Tech Stack
 
 ![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=Apple&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-ZSH-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-CDK-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-AWS_CDK-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-CloudFormation-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Amazon_Web_Services-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a)
 
-## My Open Source Projects
+## 🏗️ My Open Source Projects
 
 | 📂 Projects                                                                                        | ⭐ Stars                                                                                                 | 🍴 Forks                                                                                                 | 🚧 Issues                                                                                            | 📬 Pull requests                                                                                             |
 | ------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
 | [AWS CDK Starterkit](https://github.com/dannysteenman/aws-cdk-starterkit)                         | ![](https://img.shields.io/github/stars/dannysteenman/aws-cdk-starterkit?color=brightgreen)             | ![](https://img.shields.io/github/forks/dannysteenman/aws-cdk-starterkit?color=brightgreen)             | ![](https://img.shields.io/github/issues/dannysteenman/aws-cdk-starterkit?color=brightgreen)        | ![](https://img.shields.io/github/issues-pr/dannysteenman/aws-cdk-starterkit?color=yellow)                  |
+| [AWS CDK Python Starterkit](https://github.com/dannysteenman/aws-cdk-python-starterkit)           | ![](https://img.shields.io/github/stars/dannysteenman/aws-cdk-python-starterkit?color=brightgreen)      | ![](https://img.shields.io/github/forks/dannysteenman/aws-cdk-python-starterkit?color=brightgreen)      | ![](https://img.shields.io/github/issues/dannysteenman/aws-cdk-python-starterkit?color=brightgreen) | ![](https://img.shields.io/github/issues-pr/dannysteenman/aws-cdk-python-starterkit?color=brightgreen)      |
 | [AWS CDK Examples](https://github.com/dannysteenman/aws-cdk-examples)                             | ![](https://img.shields.io/github/stars/dannysteenman/aws-cdk-examples?color=brightgreen)               | ![](https://img.shields.io/github/forks/dannysteenman/aws-cdk-examples?color=brightgreen)               | ![](https://img.shields.io/github/issues/dannysteenman/aws-cdk-examples?color=brightgreen)          | ![](https://img.shields.io/github/issues-pr/dannysteenman/aws-cdk-examples?color=brightgreen)               |
 | [AWS Toolbox](https://github.com/dannysteenman/aws-toolbox)                                       | ![](https://img.shields.io/github/stars/dannysteenman/aws-toolbox?color=brightgreen)                    | ![](https://img.shields.io/github/forks/dannysteenman/aws-toolbox?color=brightgreen)                    | ![](https://img.shields.io/github/issues/dannysteenman/aws-toolbox?color=yellow)                    | ![](https://img.shields.io/github/issues-pr/dannysteenman/aws-toolbox?color=brightgreen)                    |
 | [VSCode CDK Construct Snippets](https://github.com/dannysteenman/vscode-cdk-snippets)             | ![](https://img.shields.io/github/stars/dannysteenman/vscode-cdk-snippets?color=brightgreen)            | ![](https://img.shields.io/github/forks/dannysteenman/vscode-cdk-snippets?color=brightgreen)            | ![](https://img.shields.io/github/issues/dannysteenman/vscode-cdk-snippets?color=yellow)            | ![](https://img.shields.io/github/issues-pr/dannysteenman/vscode-cdk-snippets?color=brightgreen)            |
