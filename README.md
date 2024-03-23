@@ -1,10 +1,5 @@
 # [![Danny Steenman header](https://raw.githubusercontent.com/dannysteenman/dannysteenman/main/icon/gh-header.png)](https://towardsthecloud.com)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dannysteenman" alt="profile views"> •
-  <a href="https://twitter.com/dannysteenman"><img src="https://img.shields.io/twitter/follow/dannysteenman?label=%40dannysteenman&style=social"></a>
-</p>
-
 # Hi, I'm Danny!
 
 I’m a [Freelance Cloud Engineer](https://www.linkedin.com/in/dannysteenman/) who enjoys building infrastructure on AWS Cloud.
@@ -36,15 +31,20 @@ I'm passionate about sharing my journey and insights, which you can explore thro
 
 ## 🥞 My Tech Stack
 
-![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=Apple&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-ZSH-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-AWS_CDK-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-CloudFormation-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-Amazon_Web_Services-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
+![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![](https://img.shields.io/badge/ZSH_Shell-2bbc8a?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white)
+![](https://img.shields.io/badge/AWS_CDK-288D46?style=for-the-badge&logo=amazonaws&logoColor=white)
+![](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ## 🏗️ My Open Source Projects
 
@@ -71,6 +71,11 @@ I'm passionate about sharing my journey and insights, which you can explore thro
 
 ## 📈 GitHub Stats
 
-<a href="https://github.com/dannysteenman/dannysteenman">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dannysteenman&show_icons=true&line_height=27&count_private=true&title_color=1F2329&text_color=434D58&icon_color=2bbc8a&bg_color=F6F8FA" alt="Danny's GitHub Stats" />
-</a>
+[![](https://github-readme-stats.vercel.app/api?username=dannysteenman&show_icons=true&line_height=27&count_private=true&title_color=1F2329&text_color=434D58&icon_color=2bbc8a&bg_color=F6F8FA)](https://github.com/dannysteenman/dannysteenman)
+
+## 👾 Socials
+
+[![](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/dannysteenman)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dannysteenman)
+[![](https://img.shields.io/badge/Towards_the_Cloud-3693F3?style=for-the-badge&logo=iCloud&logoColor=white)](https://towardsthecloud.com)
+[![](https://komarev.com/ghpvc/?username=dannysteenman&style=for-the-badge&color=red&abbreviated=true)](https://github.com/dannysteenman)
