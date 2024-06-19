@@ -61,11 +61,11 @@ I'm passionate about sharing my journey and insights, which you can explore thro
 ## 📙 My Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [AWS Trusted Advisor Cheat sheet](https://towardsthecloud.com/aws-trusted-advisor)
 - [Amazon ECS vs Amazon EC2: What’s Best for Modern Cloud?](https://towardsthecloud.com/amazon-ecs-vs-amazon-ec2)
 - [Amazon ECS vs AWS Fargate: 5 Most Important Differences Explained](https://towardsthecloud.com/amazon-ecs-vs-aws-fargate)
 - [Solved: Missing the following required SSO configuration values](https://towardsthecloud.com/aws-sso-missing-sso-configuration-values)
 - [Solved: &lpar;invalidparameterexception&rpar; when calling the executecommand operation](https://towardsthecloud.com/amazon-ecs-invalidparameterexception-executecommand)
-- [Solved: &lpar;forbiddenexception&rpar; when calling the getrolecredentials operation in AWS SSO](https://towardsthecloud.com/aws-sso-forbiddenexception-getrolecredentials-operation)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...click here for more blog articles](https://towardsthecloud.com)
