@@ -1,4 +1,4 @@
-# [![Danny Steenman header](https://raw.githubusercontent.com/dannysteenman/dannysteenman/main/icon/gh-header.png)](https://towardsthecloud.com)
+# [![Danny Steenman header](./icon/gh-header.png)](https://towardsthecloud.com)
 
 # Hi, I'm Danny!
 
