@@ -1,8 +1,6 @@
-# [![Danny Steenman header](./icon/gh-header.png)](https://towardsthecloud.com)
+# [![Danny Steenman header](./image/gh-banner.png)](https://cdklandingzone.com)
 
-# Hi, I'm Danny!
-
-I’m a [Freelance Cloud Engineer](https://www.linkedin.com/in/dannysteenman/) specialized in shipping well-architected, resilient, and cost-optimized AWS solutions designed to scale for startups and enterprises.
+Hi, I’m Danny! AWS Cloud expert and founder of my AWS Consultancy: [Towards the Cloud](https://towardsthecloud.com). specialized in shipping well-architected, resilient, and cost-optimized AWS solutions designed to scale for startups and growing businesses.
 
 > [!TIP]
 > Struggling with AWS complexity or stuck on-premise? Let's transform your cloud journey.
@@ -85,5 +83,5 @@ I’m a [Freelance Cloud Engineer](https://www.linkedin.com/in/dannysteenman/) s
 ## 👾 Socials
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dannysteenman)
-[![](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/dannysteenman)
+[![](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/dannysteenman)
 [![](https://komarev.com/ghpvc/?username=dannysteenman&style=for-the-badge&color=red&abbreviated=true)](https://github.com/dannysteenman)
