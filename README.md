@@ -67,11 +67,11 @@ Hi, I’m Danny! AWS Cloud expert and founder of my AWS Consultancy: [Towards th
 ## 📙 My Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Trusted Advisor Cheat sheet](https://towardsthecloud.com/aws-trusted-advisor)
-- [Amazon ECS vs Amazon EC2: What’s Best for Modern Cloud?](https://towardsthecloud.com/amazon-ecs-vs-amazon-ec2)
-- [Amazon ECS vs AWS Fargate: 5 Most Important Differences Explained](https://towardsthecloud.com/amazon-ecs-vs-aws-fargate)
-- [Solved: Missing the following required SSO configuration values](https://towardsthecloud.com/aws-sso-missing-sso-configuration-values)
-- [Solved: &lpar;invalidparameterexception&rpar; when calling the executecommand operation](https://towardsthecloud.com/amazon-ecs-invalidparameterexception-executecommand)
+- [Free Exam Guide: AWS Certified DevOps Engineer - Professional &lpar;DOP-C02&rpar;](https://towardsthecloud.com/blog/aws-devops-engineer-professional-exam-guide)
+- [Hardening a WordPress website on Amazon Lightsail](https://towardsthecloud.com/blog/hardening-wordpress-amazon-lightsail)
+- [Amazon ECS vs Amazon EC2: What&#39;s Best for Modern Cloud?](https://towardsthecloud.com/blog/amazon-ecs-vs-amazon-ec2)
+- [Amazon ECS vs AWS Fargate: 5 Most Important Differences Explained](https://towardsthecloud.com/blog/amazon-ecs-vs-aws-fargate)
+- [Check if a key exists in an S3 Bucket using Boto3 Python](https://towardsthecloud.com/blog/aws-sdk-key-exists-s3-bucket-boto3)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...click here for more blog articles](https://towardsthecloud.com)
