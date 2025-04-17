@@ -1,4 +1,4 @@
-# [![Danny Steenman header](./image/github-title-banner.png)](https://cdklandingzone.com)
+# [![Danny Steenman header](./image/github-title-banner.png)](https://towardsthecloud.com)
 
 Hi, I’m Danny! AWS Cloud expert and founder of my AWS Consultancy: [Towards the Cloud](https://towardsthecloud.com). specialized in shipping well-architected, resilient, and cost-optimized AWS solutions designed to scale for startups and growing businesses.
 
