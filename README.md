@@ -67,11 +67,11 @@ Hi, I’m Danny! AWS Cloud expert and founder of my AWS Consultancy: [Towards th
 ## 📙 My Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [Free Exam Guide: AWS Certified DevOps Engineer - Professional &lpar;DOP-C02&rpar;](https://towardsthecloud.com/blog/aws-devops-engineer-professional-exam-guide)
-- [Hardening a WordPress website on Amazon Lightsail](https://towardsthecloud.com/blog/hardening-wordpress-amazon-lightsail)
-- [Amazon ECS vs Amazon EC2: What&#39;s Best for Modern Cloud?](https://towardsthecloud.com/blog/amazon-ecs-vs-amazon-ec2)
-- [Amazon ECS vs AWS Fargate: 5 Most Important Differences Explained](https://towardsthecloud.com/blog/amazon-ecs-vs-aws-fargate)
+- [Case Study: Building Enterprise-Grade AWS Infrastructure for Accolade](https://towardsthecloud.com/blog/aws-landing-zone-case-study-accolade)
 - [Check if a key exists in an S3 Bucket using Boto3 Python](https://towardsthecloud.com/blog/aws-sdk-key-exists-s3-bucket-boto3)
+- [Assign a Custom Role to a Lambda Function with AWS CDK](https://towardsthecloud.com/blog/aws-cdk-custom-role-lambda-function)
+- [Create a DependsOn relation between resources in AWS CDK](https://towardsthecloud.com/blog/aws-cdk-dependson-relation)
+- [List AWS Accounts by Organizational Unit &lpar;OU&rpar; Name](https://towardsthecloud.com/blog/aws-organizations-list-aws-accounts-organizational-unit)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...click here for more blog articles](https://towardsthecloud.com)
