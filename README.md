@@ -67,11 +67,11 @@ Hi, I’m Danny! AWS Cloud expert and founder of my AWS Consultancy: [Towards th
 ## 📙 My Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [Case Study: Building Enterprise-Grade AWS Infrastructure for Accolade](https://towardsthecloud.com/blog/aws-landing-zone-case-study-accolade)
-- [Check if a key exists in an S3 Bucket using Boto3 Python](https://towardsthecloud.com/blog/aws-sdk-key-exists-s3-bucket-boto3)
-- [Assign a Custom Role to a Lambda Function with AWS CDK](https://towardsthecloud.com/blog/aws-cdk-custom-role-lambda-function)
-- [Create a DependsOn relation between resources in AWS CDK](https://towardsthecloud.com/blog/aws-cdk-dependson-relation)
-- [List AWS Accounts by Organizational Unit &lpar;OU&rpar; Name](https://towardsthecloud.com/blog/aws-organizations-list-aws-accounts-organizational-unit)
+- [Autocomplete AWS CDK Constructs in VS Code](https://towardsthecloud.com/blog/autocomplete-aws-cdk-constructs-vscode)
+- [10 Best VS Code Extensions for Cloud Engineers](https://towardsthecloud.com/blog/best-vscode-extensions-cloud-engineers)
+- [10 Must-Have VS Code extensions for JavaScript developers](https://towardsthecloud.com/blog/best-vscode-extensions-javascript)
+- [10 Best VS Code extensions for TypeScript](https://towardsthecloud.com/blog/best-vscode-extensions-typescript)
+- [10 Must-Have VS Code extensions for Python developers](https://towardsthecloud.com/blog/best-vscode-extensions-python)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...click here for more blog articles](https://towardsthecloud.com)
