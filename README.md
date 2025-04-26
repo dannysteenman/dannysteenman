@@ -67,11 +67,11 @@ Hi, I’m Danny! AWS Cloud expert and founder of my AWS Consultancy: [Towards th
 ## 📙 My Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [Autocomplete AWS CDK Constructs in VS Code](https://towardsthecloud.com/blog/autocomplete-aws-cdk-constructs-vscode)
-- [10 Best VS Code Extensions for Cloud Engineers](https://towardsthecloud.com/blog/best-vscode-extensions-cloud-engineers)
-- [10 Must-Have VS Code extensions for JavaScript developers](https://towardsthecloud.com/blog/best-vscode-extensions-javascript)
-- [10 Best VS Code extensions for TypeScript](https://towardsthecloud.com/blog/best-vscode-extensions-typescript)
-- [10 Must-Have VS Code extensions for Python developers](https://towardsthecloud.com/blog/best-vscode-extensions-python)
+- [Amazon ECS vs Amazon EC2: What&#39;s Best for Modern Cloud?](https://towardsthecloud.com/blog/amazon-ecs-vs-amazon-ec2)
+- [Amazon ECS vs AWS Fargate: 5 Most Important Differences Explained](https://towardsthecloud.com/blog/amazon-ecs-vs-aws-fargate)
+- [Easily install Python 3 and Pip on an EC2 Instance](https://towardsthecloud.com/blog/amazon-ec2-install-python-pip)
+- [Use AWS Session Manager to Securely connect to an EC2 instance](https://towardsthecloud.com/blog/amazon-ec2-instance-connect-aws-session-manager)
+- [Clean up inactive task definitions in Amazon ECS across all AWS Regions](https://towardsthecloud.com/blog/amazon-ecs-delete-inactive-task-definitions)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...click here for more blog articles](https://towardsthecloud.com)
