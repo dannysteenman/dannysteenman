@@ -3,30 +3,53 @@
 Hi, I’m Danny! AWS Cloud expert and founder of my AWS Consultancy: [Towards the Cloud](https://towardsthecloud.com). specialized in shipping well-architected, resilient, and cost-optimized AWS solutions designed to scale for startups and growing businesses.
 
 > [!TIP]
-> Struggling with AWS complexity or stuck on-premise? Let's transform your cloud journey.
+> **AWS Done Right: Ship Faster, More Securely, at Lower Cost!** Our [AWS CDK Landing Zone Service](https://towardsthecloud.com) helps B2B startups & enterprises achieve SOC 2 compliance 90% faster, reclaim 30% of developer capacity for product innovation while eliminating six-figure Cloud Engineering costs.
 >
-> [Schedule a call with me](https://towardsthecloud.com/contact) to find out how I can enhance your existing AWS setup or guide your journey from on-premise to the Cloud.
+> Discover how we deliver 10x AWS infrastructure value while cutting costs.
 >
-> <details><summary>☁️ <strong>Discover more about my one-person business: Towards the Cloud</strong></summary>
+> <a href="https://towardsthecloud.com/contact"><img alt="Book your free intro call" src="https://img.shields.io/badge/book%20your%20free%20intro%20call-success.svg?style=for-the-badge"/></a>
 >
-> <br/>
+> <details><summary>☁️ <strong>Learn more how we help businesses succeed on AWS Cloud...</strong></summary>
 >
-> Hi, I'm Danny – AWS expert and founder of [Towards the Cloud](https://towardsthecloud.com). With over a decade of hands-on experience, I specialized myself in deploying well-architected, highly scalable and cost-effective AWS Solutions using Infrastructure as Code (IaC).
+><br/>
 >
-> #### When you work with me, you're getting a package deal of expertise and personalized service:
+> AWS promises simplicity but delivers complexity. Businesses struggle with security risks and compliance requirements that divert developers from core product work.
 >
-> - **AWS CDK Proficiency**: I bring deep AWS CDK knowledge to the table, ensuring your infrastructure is not just maintainable and scalable, but also fully automated.
-> - **AWS Certified**: [Equipped with 7 AWS Certifications](https://www.credly.com/users/dannysteenman/badges), including DevOps Engineer & Solutions Architect Professional, to ensure best practices across diverse cloud scenarios.
-> - **Direct Access**: You work with me, not a team of managers. Expect quick decisions and high-quality work.
-> - **Tailored Solutions**: Understanding that no two businesses are alike, I Custom-fit cloud infrastructure for your unique needs.
-> - **Cost-Effective**: I'll optimize your AWS spending without cutting corners on performance or security.
-> - **Seamless CI/CD**: I'll set up smooth CI/CD processes using GitHub Actions, making changes a breeze through Pull Requests.
+> Without AWS expertise, you face vulnerabilities, technical debt, and market delays while competitors race ahead.
 >
-> *My mission is simple: I'll free you from infrastructure headaches so you can focus on what truly matters – your core business.*
+> Traditional consultancies worsen this by prioritizing billable hours over outcomes.
 >
-> Ready to unlock the full potential of AWS Cloud?
+> We take the opposite approach, focusing exclusively on business outcomes by eliminating AWS complexity, accelerating your developers, and securing your infrastructure through:
 >
-> <a href="https://towardsthecloud.com/contact"><img alt="Schedule your call" src="https://img.shields.io/badge/schedule%20your%20call-success.svg?style=for-the-badge"/></a>
+> ### Deploying a [Secure Landing Zone](https://towardsthecloud.com/services/aws-landing-zone)
+> - Multi-account architecture with strict security boundaries
+>   - **100% score** on [CIS AWS Foundation Benchmark](https://docs.aws.amazon.com/securityhub/latest/userguide/cis-aws-foundations-benchmark.html)
+>   - **96% rating** on [AWS foundational security best practices](https://docs.aws.amazon.com/securityhub/latest/userguide/fsbp-standard.html)
+> - Manage user access securely on AWS via Single Sign-On (SSO)
+> - Full AWS CDK implementation (Infrastructure as Code)
+> - Multi-region deployments supported
+> - Cross-account monitoring and security alerts
+> - View our [Roadmap](https://github.com/towardsthecloud/aws-cdk-landing-zone-roadmap) for all implemented and upcoming features
+>
+> ### Upskilling and accelerating your developers
+> - They get access to our production-ready, security-hardened AWS CDK components
+> - They receive AWS best practices guidance to prevent technical debt
+>
+> ### Providing support and maintenance
+> - Landing Zone gets updates and security patches
+> - Priority Slack/Teams support for infrastructure challenges
+> - Quarterly [security](https://towardsthecloud.com/services/aws-security-review) and [cost optimization](https://towardsthecloud.com/services/aws-cost-optimization) assessments to stay compliant and reduce AWS costs
+>
+> ## What This Means For Your Business
+> - **30% Lower TCO**: Cut Total Cost by 40% through right-sized resources while eliminating the $150K+ cost of a specialized AWS hire.
+> - **Accelerate Development**: Redirect 30% of engineering time from infrastructure to revenue-generating features with pre-built, compliant CDK components.
+> - **Compliance-Ready Infrastructure**: Meet security requirements from day one with architecture that [speeds up audit preparation by 90%](https://towardsthecloud.com/blog/aws-landing-zone-case-study-accolade) for SOC 2, HIPAA, and other security frameworks.
+>
+> All of this is included in a [fixed monthly subscription](https://towardsthecloud.com/pricing). No lock-in, no large upfront costs, just predictable monthly pricing.
+>
+> Book a free call to see how we deliver 10x AWS infrastructure value at a fraction of a Cloud Engineer's cost.
+>
+> <a href="https://towardsthecloud.com/contact"><img alt="Book your free introduction call" src="https://img.shields.io/badge/book%20your%20free%20introduction%20call-success.svg?style=for-the-badge"/></a>
 > </details>
 
 
