@@ -1,55 +1,44 @@
 # [![Danny Steenman header](./image/github-title-banner.png)](https://towardsthecloud.com)
 
-Hi, I’m Danny! AWS Cloud expert and founder of my AWS Consultancy: [Towards the Cloud](https://towardsthecloud.com). specialized in shipping well-architected, resilient, and cost-optimized AWS solutions designed to scale for startups and growing businesses.
+Hi, I'm Danny! AWS Cloud expert and founder of my AWS Consultancy: [Towards the Cloud](https://towardsthecloud.com). specialized in shipping well-architected, resilient, and cost-optimized AWS solutions designed to scale for startups and growing businesses.
 
 > [!TIP]
-> **AWS Done Right: Ship Faster, More Securely, at Lower Cost!** Our [AWS CDK Landing Zone Service](https://towardsthecloud.com) helps B2B startups & enterprises achieve SOC 2 compliance 90% faster, reclaim 30% of developer capacity for product innovation while eliminating six-figure Cloud Engineering costs.
+> **[Towards the Cloud](https://towardsthecloud.com/about) eliminates AWS complexity so you ship faster with confidence, cut costs by 30%, and become compliant.**
 >
-> Discover how we deliver 10x AWS infrastructure value while cutting costs.
+> Sounds too good to be true? We'll assess your AWS account for free and report exactly where you stand. You'll receive a report with security findings and cost optimization opportunities. After that you can decide whether to fix these findings yourself or let us handle it. No strings attached.
 >
-> <a href="https://towardsthecloud.com/contact"><img alt="Book your free intro call" src="https://img.shields.io/badge/book%20your%20free%20intro%20call-success.svg?style=for-the-badge"/></a>
+> <a href="https://cal.com/towardsthecloud/aws-account-review"><img alt="Book a Free AWS Account Review" src="https://img.shields.io/badge/Book%20A%20Free%20AWS%20Account%20Review-success.svg?style=for-the-badge"/></a>
 >
-> <details><summary>☁️ <strong>Learn more how we help businesses succeed on AWS Cloud...</strong></summary>
+> <details>
+> <summary>☁️ <strong>Discover how we cut AWS costs by 30% and accelerate SOC 2 compliance...</strong></summary>
+> <br/>
 >
-><br/>
+> ### AWS complexity builds faster than you realize
 >
-> AWS promises simplicity but delivers complexity. Businesses struggle with security risks and compliance requirements that divert developers from core product work.
+> What starts as simple deployment quickly spirals into inefficient architectures costing 40-60% more than needed, security blind spots risking customer data, and team burnout from operations instead of product development.
 >
-> Without AWS expertise, you face vulnerabilities, technical debt, and market delays while competitors race ahead.
+> **Traditional consultancies prioritize billable hours over outcomes, then disappear after setup. We do the opposite...**
 >
-> Traditional consultancies worsen this by prioritizing billable hours over outcomes.
+> ---
 >
-> We take the opposite approach, focusing exclusively on business outcomes by eliminating AWS complexity, accelerating your developers, and securing your infrastructure through:
+> ### We provide an AWS foundation so you deploy with confidence
 >
-> ### Deploying a [Secure Landing Zone](https://towardsthecloud.com/services/aws-landing-zone)
-> - Multi-account architecture with strict security boundaries
->   - **100% score** on [CIS AWS Foundation Benchmark](https://docs.aws.amazon.com/securityhub/latest/userguide/cis-aws-foundations-benchmark.html)
->   - **96% rating** on [AWS foundational security best practices](https://docs.aws.amazon.com/securityhub/latest/userguide/fsbp-standard.html)
-> - Manage user access securely on AWS via Single Sign-On (SSO)
-> - Full AWS CDK implementation (Infrastructure as Code)
-> - Multi-region deployments supported
-> - Cross-account monitoring and security alerts
-> - View our [Roadmap](https://github.com/towardsthecloud/aws-cdk-landing-zone-roadmap) for all implemented and upcoming features
+> - ✅ **Compliant multi-account landing zone**: 100% CIS benchmark compliance with full IaC from day one
+> - ✅ **Off-the-shelf CDK components**: Develop quicker without reinventing the wheel
+> - ✅ **Complete CI/CD with easy rollbacks**: Deploy more frequently because of IaC safety
+> - ✅ **Quarterly optimization**: Automatic security updates and cost + security reviews
 >
-> ### Upskilling and accelerating your developers
-> - They get access to our production-ready, security-hardened AWS CDK components
-> - They receive AWS best practices guidance to prevent technical debt
+> ---
 >
-> ### Providing support and maintenance
-> - Landing Zone gets updates and security patches
-> - Priority Slack/Teams support for infrastructure challenges
-> - Quarterly [security](https://towardsthecloud.com/services/aws-security-review) and [cost optimization](https://towardsthecloud.com/services/aws-cost-optimization) assessments to stay compliant and reduce AWS costs
+> ### Results: Partner with us to save costs and become compliant
+> - **30% cost reduction** ([up to 60% documented](https://towardsthecloud.com/services/aws-cost-optimization#case-study))
+> - **Automatic SOC 2/HIPAA compliance** - no audit surprises
+> - **Fractional cloud engineer** via [flexible monthly retainer](https://towardsthecloud.com/pricing)
 >
-> ## What This Means For Your Business
-> - **30% Lower TCO**: Cut Total Cost by 40% through right-sized resources while eliminating the $150K+ cost of a specialized AWS hire.
-> - **Accelerate Development**: Redirect 30% of engineering time from infrastructure to revenue-generating features with pre-built, compliant CDK components.
-> - **Compliance-Ready Infrastructure**: Meet security requirements from day one with architecture that [speeds up audit preparation by 90%](https://towardsthecloud.com/blog/aws-landing-zone-case-study-accolade) for SOC 2, HIPAA, and other security frameworks.
+> **Proof:** Y Combinator startup Accolade's founder on how our landing zone [accelerated their SOC 2 certification](https://towardsthecloud.com/blog/aws-landing-zone-case-study-accolade):
 >
-> All of this is included in a [fixed monthly subscription](https://towardsthecloud.com/pricing). No lock-in, no large upfront costs, just predictable monthly pricing.
+> *"Danny's solution and AWS expertise stood out with comprehensive accelerators, documentation, and clearly articulated design principles. **We achieved a perfect security score in days, not months.**"* — Galen Simmons, CEO
 >
-> Book a free call to see how we deliver 10x AWS infrastructure value at a fraction of a Cloud Engineer's cost.
->
-> <a href="https://towardsthecloud.com/contact"><img alt="Book your free introduction call" src="https://img.shields.io/badge/book%20your%20free%20introduction%20call-success.svg?style=for-the-badge"/></a>
 > </details>
 
 
@@ -86,6 +75,7 @@ Hi, I’m Danny! AWS Cloud expert and founder of my AWS Consultancy: [Towards th
 | [VSCode SAM Snippets](https://github.com/towardsthecloud/vscode-sam-snippets)                                     | [![Stars](https://img.shields.io/github/stars/dannysteenman/vscode-sam-snippets)](https://github.com/towardsthecloud/vscode-sam-snippets/stargazers)                                     | [![Forks](https://img.shields.io/github/forks/dannysteenman/vscode-sam-snippets)](https://github.com/towardsthecloud/vscode-sam-snippets/network/members)                                     | [![Issues](https://img.shields.io/github/issues/dannysteenman/vscode-sam-snippets)](https://github.com/towardsthecloud/vscode-sam-snippets/issues)                                     | [![Pull requests](https://img.shields.io/github/issues-pr/dannysteenman/vscode-sam-snippets)](https://github.com/towardsthecloud/vscode-sam-snippets/pulls)                                     |
 | [VSCode CDK Extension Pack](https://github.com/towardsthecloud/vscode-cdk-extension-pack )                        | [![Stars](https://img.shields.io/github/stars/dannysteenman/vscode-cdk-extension-pack)](https://github.com/towardsthecloud/vscode-cdk-extension-pack/stargazers)                         | [![Forks](https://img.shields.io/github/forks/dannysteenman/vscode-cdk-extension-pack)](https://github.com/towardsthecloud/vscode-cdk-extension-pack/network/members)                         | [![Issues](https://img.shields.io/github/issues/dannysteenman/vscode-cdk-extension-pack)](https://github.com/towardsthecloud/vscode-cdk-extension-pack/issues)                         | [![Pull requests](https://img.shields.io/github/issues-pr/dannysteenman/vscode-cdk-extension-pack)](https://github.com/towardsthecloud/vscode-cdk-extension-pack/pulls)                         |
 | [VSCode CloudFormation Extension Pack](https://github.com/towardsthecloud/vscode-cloudformation-extension-pack )  | [![Stars](https://img.shields.io/github/stars/dannysteenman/vscode-cloudformation-extension-pack)](https://github.com/towardsthecloud/vscode-cloudformation-extension-pack/stargazers)   | [![Forks](https://img.shields.io/github/forks/dannysteenman/vscode-cloudformation-extension-pack)](https://github.com/towardsthecloud/vscode-cloudformation-extension-pack/network/members)   | [![Issues](https://img.shields.io/github/issues/dannysteenman/vscode-cloudformation-extension-pack)](https://github.com/towardsthecloud/vscode-cloudformation-extension-pack/issues)   | [![Pull requests](https://img.shields.io/github/issues-pr/dannysteenman/vscode-cloudformation-extension-pack)](https://github.com/towardsthecloud/vscode-cloudformation-extension-pack/pulls)   |
+| [VSCode Terraform Extension Pack](https://github.com/towardsthecloud/vscode-terraform-extension-pack)             | [![Stars](https://img.shields.io/github/stars/dannysteenman/vscode-terraform-extension-pack)](https://github.com/towardsthecloud/vscode-terraform-extension-pack/stargazers)             | [![Forks](https://img.shields.io/github/forks/dannysteenman/vscode-terraform-extension-pack)](https://github.com/towardsthecloud/vscode-terraform-extension-pack/network/members)             | [![Issues](https://img.shields.io/github/issues/dannysteenman/vscode-terraform-extension-pack)](https://github.com/towardsthecloud/vscode-terraform-extension-pack/issues)             | [![Pull requests](https://img.shields.io/github/issues-pr/dannysteenman/vscode-terraform-extension-pack)](https://github.com/towardsthecloud/vscode-terraform-extension-pack/pulls)             |
 
 ## 📙 My Latest Blog Articles
 
