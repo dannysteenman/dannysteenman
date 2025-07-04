@@ -1,6 +1,6 @@
 # [![Danny Steenman header](./image/github-title-banner.png)](https://towardsthecloud.com)
 
-Hi, I'm Danny! AWS Cloud expert and founder of my AWS Consultancy: [Towards the Cloud](https://towardsthecloud.com). specialized in shipping well-architected, resilient, and cost-optimized AWS solutions designed to scale for startups and growing businesses.
+Hi, I'm Danny, founder of [Towards the Cloud](https://towardsthecloud.com). We help fast-growing companies solve their most expensive AWS challenges, from out-of-control costs and security compliance to slow development. All so they can focus on shipping their product.
 
 > [!TIP]
 > **[Towards the Cloud](https://towardsthecloud.com/about) eliminates AWS complexity so you ship faster with confidence, cut costs by 30%, and become compliant.**
@@ -21,21 +21,29 @@ Hi, I'm Danny! AWS Cloud expert and founder of my AWS Consultancy: [Towards the 
 >
 > ---
 >
-> ### We provide an AWS foundation so you deploy with confidence
+> ### We provide a complete package, so you deploy faster with confidence on AWS Cloud
 >
-> - ✅ **Compliant multi-account landing zone**: 100% CIS benchmark compliance with full IaC from day one
-> - ✅ **Off-the-shelf CDK components**: Develop quicker without reinventing the wheel
+> - ✅ **[Compliant multi-account Landing Zone](https://towardsthecloud.com/services/aws-landing-zone)**:
+>   - Provisions AWS accounts with security guardrails out of the box - 100% [CIS benchmark compliant](https://docs.aws.amazon.com/securityhub/latest/userguide/cis-aws-foundations-benchmark.html)
+>   - Secure Single Sign-On (SSO) for clean user access management
+>   - Everything is built using AWS CDK ensuring consistency, version control, and repeatable deployments
+>   - See what features are already included in our landing zone on our [public roadmap](https://github.com/towardsthecloud/aws-cdk-landing-zone-roadmap?tab=readme-ov-file#features)
+> - ✅ **Off-the-shelf compliant CDK components**: Develop secure infra quicker without reinventing the wheel
 > - ✅ **Complete CI/CD with easy rollbacks**: Deploy more frequently because of IaC safety
-> - ✅ **Quarterly optimization**: Automatic security updates and cost + security reviews
+> - ✅ **Quarterly checks**: Proactively receive [Cost Optimization assessments](https://towardsthecloud.com/services/aws-cost-optimization) + [Security Reviews](https://towardsthecloud.com/services/aws-security-review)
+> - ✅ **Fractional Cloud Engineer**: On-demand access to a decade of AWS Cloud experience to help you use best practices
 >
 > ---
 >
-> ### Results: Partner with us to save costs and become compliant
-> - **30% cost reduction** ([up to 60% documented](https://towardsthecloud.com/services/aws-cost-optimization#case-study))
-> - **Automatic SOC 2/HIPAA compliance** - no audit surprises
-> - **Fractional cloud engineer** via [flexible monthly retainer](https://towardsthecloud.com/pricing)
+> ### What results can you expect when you partner with us:
 >
-> **Proof:** Y Combinator startup Accolade's founder on how our landing zone [accelerated their SOC 2 certification](https://towardsthecloud.com/blog/aws-landing-zone-case-study-accolade):
+> - **30% Lower AWS Bill**: Proactive quarterly reviews catch overspending before it happens [(30-60% documented savings)](https://towardsthecloud.com/services/aws-cost-optimization#case-study)
+> - **Accelerate SOC 2/HIPAA compliance**: Our Landing Zone automatically sets up security guardrails on your AWS accounts with 100% CIS compliance from day one
+> - **Easily stay compliant**: Our automated monitoring and proactive quarterly security reviews give you control so yearly audits are smooth, not stressful
+> - **Your Team Ships Faster**: Our Pre-built secure infrastructure components let your team focus on product, not AWS
+> - **Save on hiring costs**: Access expert Cloud knowledge through our [flexible retainer](https://towardsthecloud.com/pricing) instead of committing to a full-time Cloud Engineer
+>
+> **Proof:** Y Combinator startup Accolade's founder on how our Landing Zone [accelerated their SOC 2 certification](https://towardsthecloud.com/blog/aws-landing-zone-case-study-accolade):
 >
 > *"Danny's solution and AWS expertise stood out with comprehensive accelerators, documentation, and clearly articulated design principles. **We achieved a perfect security score in days, not months.**"* — Galen Simmons, CEO
 >
