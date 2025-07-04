@@ -2,6 +2,7 @@
 
 Hi, I'm Danny, founder of [Towards the Cloud](https://towardsthecloud.com). We help fast-growing companies solve their most expensive AWS challenges, from out-of-control costs and security compliance to slow development. All so they can focus on shipping their product.
 
+<!-- TIP-LIST:START -->
 > [!TIP]
 > **[Towards the Cloud](https://towardsthecloud.com/about) eliminates AWS complexity so you ship faster with confidence, cut costs by 30%, and become compliant.**
 >
@@ -48,6 +49,7 @@ Hi, I'm Danny, founder of [Towards the Cloud](https://towardsthecloud.com). We h
 > *"Danny's solution and AWS expertise stood out with comprehensive accelerators, documentation, and clearly articulated design principles. **We achieved a perfect security score in days, not months.**"* — Galen Simmons, CEO
 >
 > </details>
+<!-- TIP-LIST:END -->
 
 
 ## 🥞 My Tech Stack
