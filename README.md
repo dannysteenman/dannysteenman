@@ -90,11 +90,11 @@ Hi, I'm Danny, founder of [Towards the Cloud](https://towardsthecloud.com). We h
 ## 📙 My Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [AWS Professional Services:  What You Should Know Before You Migrate](https://towardsthecloud.com/blog/aws-professional-services)
 - [Automatic Preview Environments with SST and GitHub Actions](https://towardsthecloud.com/blog/sst-nextjs-preview-environments-github-actions)
 - [Amazon ECS vs Amazon EC2: What&#39;s Best for Modern Cloud?](https://towardsthecloud.com/blog/amazon-ecs-vs-amazon-ec2)
 - [Amazon ECS vs AWS Fargate: 5 Most Important Differences Explained](https://towardsthecloud.com/blog/amazon-ecs-vs-aws-fargate)
 - [Easily install Python 3 and Pip on an EC2 Instance](https://towardsthecloud.com/blog/amazon-ec2-install-python-pip)
-- [Use AWS Session Manager to Securely connect to an EC2 instance](https://towardsthecloud.com/blog/amazon-ec2-instance-connect-aws-session-manager)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...click here for more blog articles](https://towardsthecloud.com)
