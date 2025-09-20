@@ -90,11 +90,11 @@ Hi, I'm Danny, founder of [Towards the Cloud](https://towardsthecloud.com). We h
 ## 📙 My Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Professional Services:  What You Should Know Before You Migrate](https://towardsthecloud.com/blog/aws-professional-services)
-- [Automatic Preview Environments with SST and GitHub Actions](https://towardsthecloud.com/blog/sst-nextjs-preview-environments-github-actions)
-- [Amazon ECS vs Amazon EC2: What&#39;s Best for Modern Cloud?](https://towardsthecloud.com/blog/amazon-ecs-vs-amazon-ec2)
-- [Amazon ECS vs AWS Fargate: 5 Most Important Differences Explained](https://towardsthecloud.com/blog/amazon-ecs-vs-aws-fargate)
-- [Easily install Python 3 and Pip on an EC2 Instance](https://towardsthecloud.com/blog/amazon-ec2-install-python-pip)
+- [Clean up Unattached EBS Volumes across All AWS Regions](https://towardsthecloud.com/blog/amazon-ec2-delete-unattached-ebs-volumes)
+- [Clean up unused Elastic IP addresses across all AWS Regions](https://towardsthecloud.com/blog/amazon-ec2-delete-unused-elastic-ip-addresses)
+- [AWS CDK Bootstrap: The Why and the How](https://towardsthecloud.com/blog/aws-cdk-bootstrap)
+- [Create a Scheduled Fargate Task with AWS CDK](https://towardsthecloud.com/blog/aws-cdk-scheduled-fargate-task)
+- [Free Exam Guide: AWS Certified Cloud Practitioner &lpar;CLF-C01&rpar;](https://towardsthecloud.com/blog/aws-cloud-practitioner-exam-guide)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...click here for more blog articles](https://towardsthecloud.com)
