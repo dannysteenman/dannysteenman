@@ -109,11 +109,11 @@ Scripts and automation tools to streamline AWS operations.
 ## 📙 My Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [Clean up Unattached EBS Volumes across All AWS Regions](https://towardsthecloud.com/blog/amazon-ec2-delete-unattached-ebs-volumes)
-- [Clean up unused Elastic IP addresses across all AWS Regions](https://towardsthecloud.com/blog/amazon-ec2-delete-unused-elastic-ip-addresses)
-- [AWS CDK Bootstrap: The Why and the How](https://towardsthecloud.com/blog/aws-cdk-bootstrap)
-- [Create a Scheduled Fargate Task with AWS CDK](https://towardsthecloud.com/blog/aws-cdk-scheduled-fargate-task)
-- [Free Exam Guide: AWS Certified Cloud Practitioner &lpar;CLF-C01&rpar;](https://towardsthecloud.com/blog/aws-cloud-practitioner-exam-guide)
+- [AWS CLI Aliases I Actually Use](https://towardsthecloud.com/notes/aws-cli-aliases)
+- [My ZSH aliases and functions for developer productivity](https://towardsthecloud.com/notes/zsh-aliases)
+- [My ZSH config built for speed](https://towardsthecloud.com/notes/zsh-config)
+- [My Powerlevel10k config for a minimalistic but informative prompt](https://towardsthecloud.com/notes/powerlevel10k-config)
+- [AWS Professional Services:  What You Should Know Before You Migrate](https://towardsthecloud.com/blog/aws-professional-services)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...click here for more blog articles](https://towardsthecloud.com)
