@@ -2,49 +2,48 @@ Hi, I'm Danny, founder of [Towards the Cloud](https://towardsthecloud.com). We h
 
 <!-- TIP-LIST:START -->
 > [!TIP]
-> **[Towards the Cloud](https://towardsthecloud.com/about) eliminates AWS complexity so you ship faster with confidence, cut costs by 30%, and become compliant.**
+> **Towards the Cloud is an AWS cloud consultancy for startups and growing companies. We provide managed services that help you build faster, optimize costs, and maintain control over security and compliance as you scale on AWS Cloud.**
 >
-> Sounds too good to be true? We'll assess your AWS account for free and report exactly where you stand. You'll receive a report with security findings and cost optimization opportunities. After that you can decide whether to fix these findings yourself or let us handle it. No strings attached.
+> **Not sure where your AWS setup stands?** Get a free assessment with detailed security findings and cost optimization opportunities. You will see exactly what needs fixing—handle it yourself or let us help. No strings attached.
 >
 > <a href="https://cal.com/towardsthecloud/aws-account-review"><img alt="Book a Free AWS Account Review" src="https://img.shields.io/badge/Book%20A%20Free%20AWS%20Account%20Review-success.svg?style=for-the-badge"/></a>
 >
 > <details>
-> <summary>☁️ <strong>Discover how we cut AWS costs by 30% and accelerate SOC 2 compliance...</strong></summary>
+> <summary><strong>How our managed service works</strong></summary>
 > <br/>
 >
-> ### AWS complexity builds faster than you realize
+> ### AWS complexity compounds faster than you think
 >
-> What starts as a simple deployment quickly spirals into inefficient architectures that cost 40-60% more than needed, security blind spots that risk customer data, and teams that burnout from managing operations on AWS instead of building product.
+> AWS is easy to start with, but without proper guardrails and Infrastructure as Code, complexity compounds monthly. The longer you wait, the more expensive and risky the fix becomes.
 >
-> **Traditional consultancies prioritize billable hours over outcomes, then disappear after setup. We do the opposite...**
+> **You're experiencing:**
+> - **Rising AWS bills** — inefficient architectures costing 40-60% more than necessary
+> - **Lost visibility** — security vulnerabilities and compliance gaps you don't know about yet
+> - **Team bottlenecks** — engineers stuck firefighting infrastructure instead of shipping product
 >
-> ---
+> **Traditional consultancies leave you with infrastructure you can't maintain. We provide ongoing managed services so you understand and control your AWS environment.**
 >
-> ### We provide a complete package, so you deploy faster with confidence on AWS Cloud
+> ### What you get
 >
-> - ✅ **[Compliant multi-account Landing Zone](https://towardsthecloud.com/services/aws-landing-zone)**:
->   - Provisions AWS accounts with security guardrails out of the box - 100% [CIS benchmark compliant](https://docs.aws.amazon.com/securityhub/latest/userguide/cis-aws-foundations-benchmark.html)
->   - Secure Single Sign-On (SSO) for clean user access management
->   - Everything is built using AWS CDK ensuring consistency, version control, and repeatable deployments
->   - See what features are already included in our landing zone on our [public roadmap](https://github.com/towardsthecloud/aws-cdk-landing-zone-roadmap?tab=readme-ov-file#features)
-> - ✅ **Off-the-shelf compliant CDK components**: Develop secure infra quicker without reinventing the wheel
-> - ✅ **Complete CI/CD with easy rollbacks**: Deploy more frequently because of IaC safety
-> - ✅ **Quarterly checks**: Proactively receive [Cost Optimization assessments](https://towardsthecloud.com/services/aws-cost-optimization) + [Security Reviews](https://towardsthecloud.com/services/aws-security-review)
-> - ✅ **Fractional Cloud Engineer**: On-demand access to a decade of AWS Cloud experience to help you use best practices
+> - ✅ **[Compliant multi-account Landing Zone](https://towardsthecloud.com/services/aws-landing-zone)** — Start 100% [CIS benchmark compliant](https://docs.aws.amazon.com/securityhub/latest/userguide/cis-aws-foundations-benchmark.html) with built-in security guardrails, SSO, and AWS CDK
+> - ✅ **Pre-built secure CDK components** — Use our production-ready infrastructure patterns instead of building from scratch
+> - ✅ **Complete CI/CD with rollbacks** — Deploy confidently with Infrastructure as Code safety nets
+> - ✅ **Quarterly reviews** — Proactive [cost optimization](https://towardsthecloud.com/services/aws-cost-optimization) and [security assessments](https://towardsthecloud.com/services/aws-security-review) to prevent issues before they happen
+> - ✅ **Fractional Cloud Engineer** — On-demand access to expert AWS guidance when you need it
 >
-> ---
+> ### Results you can expect
 >
-> ### What results can you expect when you partner with us:
+> - **30-60% lower AWS costs** — Documented savings through proactive optimization [(see case study)](https://towardsthecloud.com/services/aws-cost-optimization#case-study)
+> - **Faster compliance certification** — 100% CIS-compliant foundation accelerates SOC 2/HIPAA
+> - **Smooth yearly audits** — Automated monitoring and quarterly security reviews keep you audit-ready
+> - **Team focuses on product** — Pre-built secure components eliminate AWS infrastructure work
+> - **No full-time hire needed** — Expert cloud guidance through [flexible retainer](https://towardsthecloud.com/pricing)
 >
-> - **30% Lower AWS Bill**: Proactive quarterly reviews catch overspending before it happens [(30-60% documented savings)](https://towardsthecloud.com/services/aws-cost-optimization#case-study)
-> - **Accelerate SOC 2/HIPAA compliance**: Our Landing Zone automatically sets up security guardrails on your AWS accounts with 100% CIS compliance from day one
-> - **Easily stay compliant**: Our automated monitoring and proactive quarterly security reviews give you control so yearly audits are smooth, not stressful
-> - **Your Team Ships Faster**: Our Pre-built secure infrastructure components let your team focus on product, not AWS
-> - **Save on hiring costs**: Access expert Cloud knowledge through our [flexible retainer](https://towardsthecloud.com/pricing) instead of committing to a full-time Cloud Engineer
->
-> **Proof:** Y Combinator startup Accolade's founder on how our Landing Zone [accelerated their SOC 2 certification](https://towardsthecloud.com/blog/aws-landing-zone-case-study-accolade):
+> **Testimonial:** Y Combinator startup Accolade's founder on how our Landing Zone [accelerated their SOC 2 certification](https://towardsthecloud.com/blog/aws-landing-zone-case-study-accolade):
 >
 > *"Danny's solution and AWS expertise stood out with comprehensive accelerators, documentation, and clearly articulated design principles. **We achieved a perfect security score in days, not months.**"* — Galen Simmons, CEO
+>
+> <a href="https://cal.com/towardsthecloud/aws-account-review"><img alt="Book a Free AWS Account Review" src="https://img.shields.io/badge/Book%20A%20Free%20AWS%20Account%20Review-success.svg?style=for-the-badge"/></a>
 >
 > </details>
 <!-- TIP-LIST:END -->
