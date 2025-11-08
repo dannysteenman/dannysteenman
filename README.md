@@ -108,11 +108,11 @@ Scripts and automation tools to streamline AWS operations.
 ## 📙 My Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [AWS Enterprise Support vs Partners: Which One Do You Actually Need?](https://towardsthecloud.com/blog/aws-enterprise-support-vs-partners)
 - [AWS CLI Aliases I Actually Use](https://towardsthecloud.com/notes/aws-cli-aliases)
 - [My ZSH aliases and functions for developer productivity](https://towardsthecloud.com/notes/zsh-aliases)
 - [My ZSH config built for speed](https://towardsthecloud.com/notes/zsh-config)
 - [My Powerlevel10k config for a minimalistic but informative prompt](https://towardsthecloud.com/notes/powerlevel10k-config)
-- [AWS Professional Services:  What You Should Know Before You Migrate](https://towardsthecloud.com/blog/aws-professional-services)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...click here for more blog articles](https://towardsthecloud.com)
