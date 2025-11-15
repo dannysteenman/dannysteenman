@@ -108,11 +108,11 @@ Scripts and automation tools to streamline AWS operations.
 ## 📙 My Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [AWS Organizations Best Practices: The Critical Configurations Most Teams Miss](https://towardsthecloud.com/blog/aws-organizations-best-practices)
+- [AWS Service Control Policy &lpar;SCP&rpar; Examples by Organizational Unit: Production, Development, Security &amp; More](https://towardsthecloud.com/blog/aws-scp-examples)
+- [AWS Multi-Account Strategy: The Right Architecture for Your Growth Stage](https://towardsthecloud.com/blog/aws-multi-account-strategy)
 - [AWS Cloud Foundation Playbook for High-Growth Startups &amp; Enterprises](https://towardsthecloud.com/blog/aws-cloud-foundation)
-- [What is an AWS Landing Zone? Understanding Multi-Account Architecture](https://towardsthecloud.com/blog/aws-landing-zone)
 - [AWS Professional Services:  What You Should Know Before You Migrate](https://towardsthecloud.com/blog/aws-professional-services)
-- [What are AWS Service Control Policies &lpar;SCPs&rpar; – 2022 guide](https://towardsthecloud.com/blog/aws-scp-service-control-policies)
-- [AWS Organizations – A Complete Guide](https://towardsthecloud.com/blog/aws-organizations)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...click here for more blog articles](https://towardsthecloud.com)
