@@ -4,17 +4,23 @@ Hi, I'm Danny, founder of [Towards the Cloud](https://towardsthecloud.com). We h
 > [!TIP]
 > **We eliminate AWS complexity so you ship faster, spend less, and stay compliant.**
 >
-> AWS starts simple. As you scale, technical debt compounds. Production and staging environments blur together. Resources multiply without clear ownership. IAM policies accumulate exceptions. Security findings pile up in backlogs. The AWS bill climbs month after month.
+> Our managed AWS service gives you three things: a production-grade Landing Zone with built-in compliance controls, proactive monitoring that stops cost waste and security drift, and senior AWS expertise that accelerates your team's delivery.
 >
-> These are all symptoms of a missing AWS foundation. Without it, your developers spend more time fixing problems than shipping features that drive business growth.
->
-> **We provide that foundation and own it entirely so your team can focus on shipping.** Start with a free assessment to see where you stand:
+> Start with a free assessment to see where you stand and how our service can improve your AWS foundation:
 >
 > <a href="https://towardsthecloud.com/#cta"><img alt="Request a Free AWS Assessment" src="https://img.shields.io/badge/Request%20a%20Free%20AWS%20Assessment-success.svg?style=for-the-badge"/></a>
 >
 > <details>
-> <summary>⚡ <strong>See exactly how we take ownership of your AWS Foundation</strong></summary>
+> <summary>⚡ <strong>See the symptoms of a missing AWS foundation and how we solve them</strong></summary>
 > <br/>
+>
+> AWS starts simple. As you scale, technical debt compounds. Production and staging environments blur together. Resources multiply without clear ownership. IAM policies accumulate exceptions. Security findings pile up in backlogs. The AWS bill climbs month after month.
+>
+> These are all symptoms of a missing AWS foundation. Without it, your developers spend more time fixing problems than shipping features that drive business growth.
+>
+> **We solve this by providing that foundation and owning it entirely, so your team focuses on shipping, not firefighting.**
+>
+> ### Here's what's included:
 >
 > **1. We Provision a Secure [Landing Zone](https://towardsthecloud.com/services/aws-landing-zone) That Accelerates Compliance**
 > - Multi-account architecture with security controls and compliance guardrails from day one
@@ -31,10 +37,6 @@ Hi, I'm Danny, founder of [Towards the Cloud](https://towardsthecloud.com). We h
 >
 > [*"We achieved a perfect security score in days, not months."*](https://towardsthecloud.com/blog/case-study-accolade)
 > — Galen Simmons, CEO, Accolade (Y Combinator Startup)
->
-> Start with a free assessment to see where your infrastructure stands and what fixing it looks like. No commitment required.
->
-> <a href="https://towardsthecloud.com/#cta"><img alt="Request a Free AWS Assessment" src="https://img.shields.io/badge/Request%20a%20Free%20AWS%20Assessment-success.svg?style=for-the-badge"/></a>
 >
 > </details>
 <!-- TIP-LIST:END -->
