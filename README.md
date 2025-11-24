@@ -2,48 +2,39 @@ Hi, I'm Danny, founder of [Towards the Cloud](https://towardsthecloud.com). We h
 
 <!-- TIP-LIST:START -->
 > [!TIP]
-> **Towards the Cloud is an AWS cloud consultancy for startups and growing companies. We provide managed services that help you build faster, optimize costs, and maintain control over security and compliance as you scale on AWS Cloud.**
+> **We eliminate AWS complexity so you ship faster, spend less, and stay compliant.**
 >
-> **Not sure where your AWS setup stands?** Get a free assessment with detailed security findings and cost optimization opportunities. You will see exactly what needs fixing—handle it yourself or let us help. No strings attached.
+> AWS starts simple. As you scale, technical debt compounds. Production and staging environments blur together. Resources multiply without clear ownership. IAM policies accumulate exceptions. Security findings pile up in backlogs. The AWS bill climbs month after month.
 >
-> <a href="https://cal.com/towardsthecloud/aws-account-review"><img alt="Book a Free AWS Account Review" src="https://img.shields.io/badge/Book%20A%20Free%20AWS%20Account%20Review-success.svg?style=for-the-badge"/></a>
+> These are all symptoms of a missing AWS foundation. Without it, your developers spend more time fixing problems than shipping features that drive business growth.
+>
+> **We provide that foundation and own it entirely so your team can focus on shipping.** Start with a free assessment to see where you stand:
+>
+> <a href="https://towardsthecloud.com/#cta"><img alt="Request a Free AWS Assessment" src="https://img.shields.io/badge/Request%20a%20Free%20AWS%20Assessment-success.svg?style=for-the-badge"/></a>
 >
 > <details>
-> <summary><strong>How our managed service works</strong></summary>
+> <summary>⚡ <strong>See exactly how we take ownership of your AWS Foundation</strong></summary>
 > <br/>
 >
-> ### AWS complexity compounds faster than you think
+> **1. We Provision a Secure [Landing Zone](https://towardsthecloud.com/services/aws-landing-zone) That Accelerates Compliance**
+> - Multi-account architecture with security controls and compliance guardrails from day one
+> - Achieve 100% on [CIS AWS Foundation Benchmark](https://docs.aws.amazon.com/securityhub/latest/userguide/cis-aws-foundations-benchmark.html) and 96% on [AWS Foundational Security Best Practices](https://docs.aws.amazon.com/securityhub/latest/userguide/fsbp-standard.html)
+> - These benchmarks map directly to **SOC 2**, **HIPAA**, and **PCI-DSS** controls, cutting months from your compliance timeline
 >
-> AWS is easy to start with, but without proper guardrails and Infrastructure as Code, complexity compounds monthly. The longer you wait, the more expensive and risky the fix becomes.
+> **2. We Monitor Proactively to Stop Cost Waste and Security Drift**
+> - Quarterly cost reviews identify unattached volumes, oversized instances, and orphaned resources. We clean up waste before it compounds, typically reducing your AWS spend by 30-60%. [See the detailed breakdown](https://towardsthecloud.com/services/aws-cost-optimization#case-study).
+> - Continuous security monitoring across all accounts catches misconfigurations and policy violations immediately. You get alerts while issues are still fixable, not after they're breaches.
 >
-> **You're experiencing:**
-> - **Rising AWS bills** — inefficient architectures costing 40-60% more than necessary
-> - **Lost visibility** — security vulnerabilities and compliance gaps you don't know about yet
-> - **Team bottlenecks** — engineers stuck firefighting infrastructure instead of shipping product
+> **3. We Provide Senior AWS Expertise That Accelerates Delivery**
+> - Your developers get access to production-ready IaC templates for common patterns: multi-az applications, event-driven architectures, secure data pipelines. What typically takes weeks of research and iteration ships in hours
+> - Get solutions architecture guidance on VPC design, IAM policies, disaster recovery, observability and more. Your team makes faster decisions because we've already solved these problems for enterprises at scale
 >
-> **Traditional consultancies leave you with infrastructure you can't maintain. We provide ongoing managed services so you understand and control your AWS environment.**
+> [*"We achieved a perfect security score in days, not months."*](https://towardsthecloud.com/blog/case-study-accolade)
+> — Galen Simmons, CEO, Accolade (Y Combinator Startup)
 >
-> ### What you get
+> Start with a free assessment to see where your infrastructure stands and what fixing it looks like. No commitment required.
 >
-> - ✅ **[Compliant multi-account Landing Zone](https://towardsthecloud.com/services/aws-landing-zone)** — Start 100% [CIS benchmark compliant](https://docs.aws.amazon.com/securityhub/latest/userguide/cis-aws-foundations-benchmark.html) with built-in security guardrails, SSO, and AWS CDK
-> - ✅ **Pre-built secure CDK components** — Use our production-ready infrastructure patterns instead of building from scratch
-> - ✅ **Complete CI/CD with rollbacks** — Deploy confidently with Infrastructure as Code safety nets
-> - ✅ **Quarterly reviews** — Proactive [cost optimization](https://towardsthecloud.com/services/aws-cost-optimization) and [security assessments](https://towardsthecloud.com/services/aws-security-review) to prevent issues before they happen
-> - ✅ **Fractional Cloud Engineer** — On-demand access to expert AWS guidance when you need it
->
-> ### Results you can expect
->
-> - **30-60% lower AWS costs** — Documented savings through proactive optimization [(see case study)](https://towardsthecloud.com/services/aws-cost-optimization#case-study)
-> - **Faster compliance certification** — 100% CIS-compliant foundation accelerates SOC 2/HIPAA
-> - **Smooth yearly audits** — Automated monitoring and quarterly security reviews keep you audit-ready
-> - **Team focuses on product** — Pre-built secure components eliminate AWS infrastructure work
-> - **No full-time hire needed** — Expert cloud guidance through [flexible retainer](https://towardsthecloud.com/pricing)
->
-> **Testimonial:** Y Combinator startup Accolade's founder on how our Landing Zone [accelerated their SOC 2 certification](https://towardsthecloud.com/blog/aws-landing-zone-case-study-accolade):
->
-> *"Danny's solution and AWS expertise stood out with comprehensive accelerators, documentation, and clearly articulated design principles. **We achieved a perfect security score in days, not months.**"* — Galen Simmons, CEO
->
-> <a href="https://cal.com/towardsthecloud/aws-account-review"><img alt="Book a Free AWS Account Review" src="https://img.shields.io/badge/Book%20A%20Free%20AWS%20Account%20Review-success.svg?style=for-the-badge"/></a>
+> <a href="https://towardsthecloud.com/#cta"><img alt="Request a Free AWS Assessment" src="https://img.shields.io/badge/Request%20a%20Free%20AWS%20Assessment-success.svg?style=for-the-badge"/></a>
 >
 > </details>
 <!-- TIP-LIST:END -->
