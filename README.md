@@ -28,7 +28,7 @@ Hi, I'm Danny, founder of [Towards the Cloud](https://towardsthecloud.com). We h
 > - These benchmarks map directly to **SOC 2**, **HIPAA**, and **PCI-DSS** controls, cutting months from your compliance timeline
 >
 > **2. We Monitor Proactively to Stop Cost Waste and Security Drift**
-> - Quarterly cost reviews identify unattached volumes, oversized instances, and orphaned resources. We clean up waste before it compounds, typically reducing your AWS spend by 30-60%. [See the detailed breakdown](https://towardsthecloud.com/services/aws-cost-optimization#case-study).
+> - Quarterly cost reviews identify unattached volumes, oversized instances, and orphaned resources. We clean up waste before it compounds, reducing your AWS spend by an average of 20-30%, with [occasional outliers of 60+%](https://towardsthecloud.com/services/aws-cost-optimization#case-study).
 > - Continuous security monitoring across all accounts catches misconfigurations and policy violations immediately. You get alerts while issues are still fixable, not after they're breaches.
 >
 > **3. We Provide Senior AWS Expertise That Accelerates Delivery**
