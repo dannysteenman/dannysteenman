@@ -6,9 +6,9 @@ Hi, I'm Danny, founder of [Towards the Cloud](https://towardsthecloud.com). We h
 >
 > Our managed AWS service gives you three things: a production-grade Landing Zone with built-in compliance controls, proactive monitoring that stops cost waste and security drift, and senior AWS expertise that accelerates your team's delivery.
 >
-> Start with a free assessment to see where you stand and how our service can improve your AWS foundation:
+> Book a free demo to see where you stand and how our service can improve your AWS foundation:
 >
-> <a href="https://towardsthecloud.com/#cta"><img alt="Request a Free AWS Assessment" src="https://img.shields.io/badge/Request%20a%20Free%20AWS%20Assessment-success.svg?style=for-the-badge"/></a>
+> <a href="https://towardsthecloud.com/#cta"><img alt="Book a Free Demo" src="https://img.shields.io/badge/Book%20a%20Free%20Demo-success.svg?style=for-the-badge"/></a>
 >
 > <details>
 > <summary>⚡ <strong>See the symptoms of a missing AWS foundation and how we solve them</strong></summary>
