@@ -101,11 +101,11 @@ Scripts and automation tools to streamline AWS operations.
 ## 📙 My Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Organizations Best Practices: The Critical Configurations Most Teams Miss](https://towardsthecloud.com/blog/aws-organizations-best-practices)
-- [AWS Service Control Policy &lpar;SCP&rpar; Examples by Organizational Unit: Production, Development, Security &amp; More](https://towardsthecloud.com/blog/aws-scp-examples)
-- [AWS Multi-Account Strategy: The Right Architecture for Your Growth Stage](https://towardsthecloud.com/blog/aws-multi-account-strategy)
-- [AWS Cloud Foundation Playbook for High-Growth Startups &amp; Enterprises](https://towardsthecloud.com/blog/aws-cloud-foundation)
-- [AWS Professional Services:  What You Should Know Before You Migrate](https://towardsthecloud.com/blog/aws-professional-services)
+- [AWS Trusted Advisor Cheat Sheet](https://towardsthecloud.com/notes/aws-trusted-advisor)
+- [Amazon Resource Names &lpar;ARNs&rpar; Cheat Sheet](https://towardsthecloud.com/notes/amazon-resource-names-arns)
+- [AWS Service Principals: The Complete Auto-Updated List &lpar;2025&rpar;](https://towardsthecloud.com/notes/aws-iam-service-principals)
+- [CloudFormation GetAtt Cheat Sheet - Complete AWS Resource Attributes Table](https://towardsthecloud.com/notes/aws-cloudformation-resource-attributes)
+- [CloudFormation Resource Properties Cheat Sheet - Complete AWS Properties Reference](https://towardsthecloud.com/notes/aws-cloudformation-resource-properties)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...click here for more blog articles](https://towardsthecloud.com)
