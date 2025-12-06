@@ -101,11 +101,11 @@ Scripts and automation tools to streamline AWS operations.
 ## 📙 My Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [AWS Organizations Best Practices: The Critical Configurations Most Teams Miss](https://towardsthecloud.com/blog/aws-organizations-best-practices)
+- [AWS Organizations – A Complete Guide](https://towardsthecloud.com/blog/aws-organizations)
+- [Why AWS Delegated Administrators Are Essential for AWS Multi-Account Architectures](https://towardsthecloud.com/blog/aws-delegated-administrator)
+- [AWS Multi-Account Strategy: The Right Architecture for Your Growth Stage](https://towardsthecloud.com/blog/aws-multi-account-strategy)
 - [AWS Trusted Advisor Cheat Sheet](https://towardsthecloud.com/notes/aws-trusted-advisor)
-- [Amazon Resource Names &lpar;ARNs&rpar; Cheat Sheet](https://towardsthecloud.com/notes/amazon-resource-names-arns)
-- [AWS Service Principals: The Complete Auto-Updated List &lpar;2025&rpar;](https://towardsthecloud.com/notes/aws-iam-service-principals)
-- [CloudFormation GetAtt Cheat Sheet - Complete AWS Resource Attributes Table](https://towardsthecloud.com/notes/aws-cloudformation-resource-attributes)
-- [CloudFormation Resource Properties Cheat Sheet - Complete AWS Properties Reference](https://towardsthecloud.com/notes/aws-cloudformation-resource-properties)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...click here for more blog articles](https://towardsthecloud.com)
