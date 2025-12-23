@@ -98,7 +98,7 @@ Scripts and automation tools to streamline AWS operations.
 | [AWS CDK Diff PR Commenter](https://github.com/towardsthecloud/aws-cdk-diff-pr-commenter)     | [![Stars](https://img.shields.io/github/stars/towardsthecloud/aws-cdk-diff-pr-commenter)](https://github.com/towardsthecloud/aws-cdk-diff-pr-commenter/stargazers)     | [![Forks](https://img.shields.io/github/forks/towardsthecloud/aws-cdk-diff-pr-commenter)](https://github.com/towardsthecloud/aws-cdk-diff-pr-commenter/network/members)     | [![Issues](https://img.shields.io/github/issues/towardsthecloud/aws-cdk-diff-pr-commenter)](https://github.com/towardsthecloud/aws-cdk-diff-pr-commenter/issues)     | [![Pull requests](https://img.shields.io/github/issues-pr/towardsthecloud/aws-cdk-diff-pr-commenter)](https://github.com/towardsthecloud/aws-cdk-diff-pr-commenter/pulls)     |
 | [Terraform Plan PR Commenter](https://github.com/towardsthecloud/terraform-plan-pr-commenter) | [![Stars](https://img.shields.io/github/stars/towardsthecloud/terraform-plan-pr-commenter)](https://github.com/towardsthecloud/terraform-plan-pr-commenter/stargazers) | [![Forks](https://img.shields.io/github/forks/towardsthecloud/terraform-plan-pr-commenter)](https://github.com/towardsthecloud/terraform-plan-pr-commenter/network/members) | [![Issues](https://img.shields.io/github/issues/towardsthecloud/terraform-plan-pr-commenter)](https://github.com/towardsthecloud/terraform-plan-pr-commenter/issues) | [![Pull requests](https://img.shields.io/github/issues-pr/towardsthecloud/terraform-plan-pr-commenter)](https://github.com/towardsthecloud/terraform-plan-pr-commenter/pulls) |
 
-## 📙 My Latest Blog Articles
+## 📙 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [AWS Organizations Best Practices: The Critical Configurations Most Teams Miss](https://towardsthecloud.com/blog/aws-organizations-best-practices)
@@ -108,14 +108,11 @@ Scripts and automation tools to streamline AWS operations.
 - [AWS Trusted Advisor Cheat Sheet](https://towardsthecloud.com/notes/aws-trusted-advisor)
 <!-- BLOG-POST-LIST:END -->
 
-▶ [...click here for more blog articles](https://towardsthecloud.com)
-
-## 📈 GitHub Stats
-
-[![](https://github-readme-stats.vercel.app/api?username=dannysteenman&show_icons=true&line_height=27&count_private=true&title_color=1F2329&text_color=434D58&icon_color=2bbc8a&bg_color=F6F8FA)](https://github.com/dannysteenman/dannysteenman)
+▶ [...click here for more blog posts](https://towardsthecloud.com)
 
 ## 👾 Socials
 
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dannysteenman)
 [![](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/dannysteenman)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dannysteenman)
+
 [![](https://komarev.com/ghpvc/?username=dannysteenman&style=for-the-badge&color=red&abbreviated=true)](https://github.com/dannysteenman)
