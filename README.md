@@ -101,9 +101,9 @@ Scripts and automation tools to streamline AWS operations.
 ## 📙 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AWS Control Tower vs AWS Organizations: One Builds on the Other](https://towardsthecloud.com/blog/aws-control-tower-vs-aws-organizations)
+- [AWS Control Tower Alternatives: From Console to Code](https://towardsthecloud.com/blog/aws-control-tower-alternatives)
 - [AWS Multi-Account Best Practices: Build a Scalable, Secure Foundation](https://towardsthecloud.com/blog/aws-multi-account-best-practices)
-- [AWS Organizations Best Practices: The Critical Configurations Most Teams Miss](https://towardsthecloud.com/blog/aws-organizations-best-practices)
-- [AWS Multi-Account Strategy: The Right Architecture for Your Growth Stage](https://towardsthecloud.com/blog/aws-multi-account-strategy)
 - [AWS Account Best Practices: Secure Your AWS Account Before It&#39;s Too Late](https://towardsthecloud.com/blog/aws-account-best-practices)
 - [Why AWS Delegated Administrators Are Essential for AWS Multi-Account Architectures](https://towardsthecloud.com/blog/aws-delegated-administrator)
 <!-- BLOG-POST-LIST:END -->
