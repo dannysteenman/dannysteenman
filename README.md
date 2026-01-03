@@ -101,11 +101,11 @@ Scripts and automation tools to streamline AWS operations.
 ## 📙 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Control Tower vs AWS Organizations: One Builds on the Other](https://towardsthecloud.com/blog/aws-control-tower-vs-aws-organizations)
-- [AWS Control Tower Alternatives: From Console to Code](https://towardsthecloud.com/blog/aws-control-tower-alternatives)
-- [AWS Multi-Account Best Practices: Build a Scalable, Secure Foundation](https://towardsthecloud.com/blog/aws-multi-account-best-practices)
-- [AWS Account Best Practices: Secure Your AWS Account Before It&#39;s Too Late](https://towardsthecloud.com/blog/aws-account-best-practices)
-- [Why AWS Delegated Administrators Are Essential for AWS Multi-Account Architectures](https://towardsthecloud.com/blog/aws-delegated-administrator)
+- [CloudFormation GetAtt Cheat Sheet - 1500+ AWS Resources with Ref Comparison [2026]](https://towardsthecloud.com/notes/aws-cloudformation-resource-attributes)
+- [Amazon Resource Names &lpar;ARNs&rpar; Cheat Sheet](https://towardsthecloud.com/notes/amazon-resource-names-arns)
+- [CloudFormation Resource Properties Cheat Sheet - Complete AWS Properties Reference](https://towardsthecloud.com/notes/aws-cloudformation-resource-properties)
+- [AWS Service Principals List: Complete Reference with 578 Principals &lpar;2026&rpar;](https://towardsthecloud.com/notes/aws-iam-service-principals)
+- [AWS CDK vs Terraform: The Complete 2026 Comparison](https://towardsthecloud.com/blog/aws-cdk-vs-terraform)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...click here for more blog posts](https://towardsthecloud.com)
