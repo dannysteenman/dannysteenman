@@ -101,11 +101,11 @@ Scripts and automation tools to streamline AWS operations.
 ## 📙 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [CloudFormation GetAtt Cheat Sheet - 1500+ AWS Resources with Ref Comparison [2026]](https://towardsthecloud.com/notes/aws-cloudformation-resource-attributes)
-- [Amazon Resource Names &lpar;ARNs&rpar; Cheat Sheet](https://towardsthecloud.com/notes/amazon-resource-names-arns)
-- [CloudFormation Resource Properties Cheat Sheet - Complete AWS Properties Reference](https://towardsthecloud.com/notes/aws-cloudformation-resource-properties)
-- [AWS Service Principals List: Complete Reference with 578 Principals &lpar;2026&rpar;](https://towardsthecloud.com/notes/aws-iam-service-principals)
-- [AWS CDK vs Terraform: The Complete 2026 Comparison](https://towardsthecloud.com/blog/aws-cdk-vs-terraform)
+- [AWS CDK Best Practices: The Complete Guide [2026]](https://towardsthecloud.com/blog/aws-cdk-best-practices)
+- [ClickOps vs IaC: The Complete AWS Comparison Guide [2026]](https://towardsthecloud.com/blog/clickops-vs-iac)
+- [Infrastructure as Code: Complete AWS Guide to IaC Tools [2026]](https://towardsthecloud.com/blog/infrastructure-as-code)
+- [How to Pass AWS Certification Exams: Complete 2026 Guide](https://towardsthecloud.com/blog/pass-aws-certification-exam)
+- [AWS CloudOps Engineer Exam Guide: SOA-C03 Prep &amp; Study Plan [2026]](https://towardsthecloud.com/blog/aws-cloudops-engineer-associate-exam-guide)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...click here for more blog posts](https://towardsthecloud.com)
