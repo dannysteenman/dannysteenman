@@ -101,11 +101,11 @@ Scripts and automation tools to streamline AWS operations.
 ## 📙 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AWS Service Principals List: Complete Reference with 578 Principals &lpar;2026&rpar;](https://towardsthecloud.com/notes/aws-iam-service-principals)
+- [Amazon Resource Names &lpar;ARNs&rpar; Cheat Sheet](https://towardsthecloud.com/notes/amazon-resource-names-arns)
+- [CloudFormation GetAtt Cheat Sheet - 1500+ AWS Resources with Ref Comparison [2026]](https://towardsthecloud.com/notes/aws-cloudformation-resource-attributes)
+- [CloudFormation Resource Properties Cheat Sheet - Complete AWS Properties Reference](https://towardsthecloud.com/notes/aws-cloudformation-resource-properties)
 - [AWS Cost Optimization Best Practices: A Maturity-Based Guide [2026]](https://towardsthecloud.com/blog/aws-cost-optimization-best-practices)
-- [AWS Cost Optimization Checklist: The Maturity-Based Framework [2026]](https://towardsthecloud.com/blog/aws-cost-optimization-checklist)
-- [AWS IAM Identity Center: Complete Guide to Centralized Identity](https://towardsthecloud.com/blog/aws-iam-identity-center)
-- [AWS European Sovereign Cloud: Complete Guide to EU Data Sovereignty](https://towardsthecloud.com/blog/aws-european-sovereign-cloud)
-- [AWS CDK Best Practices: The Complete Guide [2026]](https://towardsthecloud.com/blog/aws-cdk-best-practices)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...click here for more blog posts](https://towardsthecloud.com)
