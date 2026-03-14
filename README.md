@@ -105,7 +105,7 @@ Scripts and automation tools to streamline AWS operations.
 - [Amazon Resource Names &lpar;ARNs&rpar; Cheat Sheet](https://towardsthecloud.com/notes/amazon-resource-names-arns)
 - [CloudFormation GetAtt Cheat Sheet - 1500+ AWS Resources with Ref Comparison [2026]](https://towardsthecloud.com/notes/aws-cloudformation-resource-attributes)
 - [CloudFormation Resource Properties Cheat Sheet - Complete AWS Properties Reference](https://towardsthecloud.com/notes/aws-cloudformation-resource-properties)
-- [What Happens During an AWS Cost Optimization Assessment](https://towardsthecloud.com/blog/aws-cost-optimization-assessment)
+- [The Complete AWS Well-Architected Review Checklist &lpar;2026&rpar;](https://towardsthecloud.com/blog/aws-well-architected-review-checklist)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...click here for more blog posts](https://towardsthecloud.com)
