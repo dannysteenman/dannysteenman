@@ -90,10 +90,10 @@ Starter kits and examples to help you build on AWS with best practices.
 
 <!-- BLOG-POST-LIST:START -->
 - [Get the public ip address of your EC2 instance quickly](https://towardsthecloud.com/notes/get-ip-address-amazon-ec2-instance)
+- [AWS Well-Architected Review Cost: Free Tool vs $5K Fees](https://towardsthecloud.com/blog/aws-well-architected-review-cost)
+- [AWS Well-Architected Review Process: Step-by-Step Guide](https://towardsthecloud.com/blog/aws-well-architected-review-process)
 - [Why Your Startup Needs an AWS Landing Zone Before SOC 2](https://towardsthecloud.com/blog/aws-landing-zone-soc-2)
 - [AWS Service Principals List: Complete Reference with 578 Principals &lpar;2026&rpar;](https://towardsthecloud.com/notes/aws-iam-service-principals)
-- [Amazon Resource Names &lpar;ARNs&rpar; Cheat Sheet](https://towardsthecloud.com/notes/amazon-resource-names-arns)
-- [CloudFormation GetAtt Cheat Sheet - 1500+ AWS Resources with Ref Comparison [2026]](https://towardsthecloud.com/notes/aws-cloudformation-resource-attributes)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...click here for more blog posts](https://towardsthecloud.com)
