@@ -89,11 +89,11 @@ Starter kits and examples to help you build on AWS with best practices.
 ## 📙 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Service Principals List: Complete Reference with 578 Principals &lpar;2026&rpar;](https://towardsthecloud.com/notes/aws-iam-service-principals)
-- [Amazon Resource Names &lpar;ARNs&rpar; Cheat Sheet](https://towardsthecloud.com/notes/amazon-resource-names-arns)
-- [CloudFormation GetAtt Cheat Sheet - 1500+ AWS Resources with Ref Comparison [2026]](https://towardsthecloud.com/notes/aws-cloudformation-resource-attributes)
-- [CloudFormation Resource Properties Cheat Sheet - Complete AWS Properties Reference](https://towardsthecloud.com/notes/aws-cloudformation-resource-properties)
+- [AWS Trusted Advisor Cheat Sheet](https://towardsthecloud.com/blog/aws-trusted-advisor)
+- [AWS IQ Alternatives: Where to Find AWS Experts in 2026](https://towardsthecloud.com/blog/aws-iq-alternative)
 - [AWS Well-Architected Security Pillar: What to Review](https://towardsthecloud.com/blog/aws-well-architected-framework-security-pillar)
+- [Get the public ip address of your EC2 instance quickly](https://towardsthecloud.com/blog/get-ip-address-amazon-ec2-instance)
+- [AWS Well-Architected Framework Pillars: 6 Real Trade-Offs](https://towardsthecloud.com/blog/aws-well-architected-framework-pillars)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...click here for more blog posts](https://towardsthecloud.com)
