@@ -90,10 +90,10 @@ Starter kits and examples to help you build on AWS with best practices.
 
 <!-- BLOG-POST-LIST:START -->
 - [AWS Trusted Advisor Cheat Sheet](https://towardsthecloud.com/blog/aws-trusted-advisor)
-- [AWS IQ Alternatives: Where to Find AWS Experts in 2026](https://towardsthecloud.com/blog/aws-iq-alternative)
-- [AWS Well-Architected Security Pillar: What to Review](https://towardsthecloud.com/blog/aws-well-architected-framework-security-pillar)
-- [Get the public ip address of your EC2 instance quickly](https://towardsthecloud.com/blog/get-ip-address-amazon-ec2-instance)
-- [AWS Well-Architected Framework Pillars: 6 Real Trade-Offs](https://towardsthecloud.com/blog/aws-well-architected-framework-pillars)
+- [10 Most Common AWS Well-Architected Review Findings](https://towardsthecloud.com/blog/aws-well-architected-review-findings)
+- [How to Use the AWS Well-Architected Tool &lpar;All 8 Steps&rpar;](https://towardsthecloud.com/blog/aws-well-architected-tool)
+- [Top 14 AWS Cloud Consulting Companies in 2026 &lpar;By Buyer Profile&rpar;](https://towardsthecloud.com/blog/aws-cloud-consulting-companies)
+- [AWS Cloud Consulting Services: What You Actually Get](https://towardsthecloud.com/blog/aws-cloud-consulting-services)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...click here for more blog posts](https://towardsthecloud.com)
