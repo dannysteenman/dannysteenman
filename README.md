@@ -4,7 +4,7 @@ Hi, I'm Danny, founder of [Towards the Cloud](https://towardsthecloud.com). We h
 > [!TIP]
 > **We eliminate AWS complexity so you ship faster, spend less, and stay compliant.**
 >
-> Our managed AWS service gives you three things: a production-grade Landing Zone with built-in compliance controls, proactive monitoring that stops cost waste and security drift, and senior AWS expertise that accelerates your team's delivery.
+> Our managed AWS service gives you three things: a production-grade AWS CDK Landing Zone with built-in compliance controls, proactive monitoring that stops cost waste and security drift, and senior AWS expertise that accelerates your team's delivery.
 >
 > Book a free demo to see where you stand and how our service can improve your AWS foundation:
 >
@@ -22,7 +22,7 @@ Hi, I'm Danny, founder of [Towards the Cloud](https://towardsthecloud.com). We h
 >
 > ### Here's what's included:
 >
-> **1. We Provision a Secure [Landing Zone](https://towardsthecloud.com/services/aws-landing-zone) That Accelerates Compliance**
+> **1. We Provision a Secure [AWS CDK Landing Zone](https://towardsthecloud.com/services/aws-cdk-landing-zone) That Accelerates Compliance**
 >
 > - Multi-account architecture with security controls and compliance guardrails from day one
 > - Achieve 100% on [CIS AWS Foundation Benchmark](https://docs.aws.amazon.com/securityhub/latest/userguide/cis-aws-foundations-benchmark.html) and 96% on [AWS Foundational Security Best Practices](https://docs.aws.amazon.com/securityhub/latest/userguide/fsbp-standard.html)
