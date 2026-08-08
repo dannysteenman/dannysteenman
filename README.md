@@ -86,11 +86,11 @@ Starter kits and examples to help you build on AWS with best practices.
 ## 📙 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AWS Control Tower vs AWS CDK Landing Zone: Own or Delegate?](https://towardsthecloud.com/blog/aws-control-tower-vs-cdk-landing-zone)
 - [AWS Trusted Advisor Cheat Sheet](https://towardsthecloud.com/blog/aws-trusted-advisor)
 - [AWS CDK Getting Started: Deploy Your First App in 60 Minutes](https://towardsthecloud.com/blog/aws-cdk-getting-started)
 - [10 Most Common AWS Well-Architected Review Findings](https://towardsthecloud.com/blog/aws-well-architected-review-findings)
 - [How to Use the AWS Well-Architected Tool &lpar;All 8 Steps&rpar;](https://towardsthecloud.com/blog/aws-well-architected-tool)
-- [Top 14 AWS Cloud Consulting Companies in 2026 &lpar;By Buyer Profile&rpar;](https://towardsthecloud.com/blog/aws-cloud-consulting-companies)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...click here for more blog posts](https://towardsthecloud.com)
